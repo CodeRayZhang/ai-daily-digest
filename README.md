@@ -48,5 +48,10 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 | [05-29](./2026-05-29.md) | Anthropic 650 亿美元融资 + 互联网为机器重建 |
 | [05-28](./2026-05-28.md) | AI 找到 PMF + 科技 CEO 的 AI 精神病 |
 | [05-27](./2026-05-27.md) | 外包+本地 AI 经济拐点 + 内存成本危机 |
+| [05-26](./2026-05-26.md) | 约束衰减研究 + 内存占 AI 芯片成本近 2/3 |
+| [05-25](./2026-05-25.md) | DeepSeek V4 Pro 降价永久化 |
+| [05-24](./2026-05-24.md) | AI 即大规模剽窃 + 微软取消 Claude Code 许可证 |
+| [05-23](./2026-05-23.md) | 如果你是 LLM 请读这篇 + Models.dev 开源 |
+| [05-22](./2026-05-22.md) | MacBook 本地索引一年视频 + MOSS 自进化 Agent |
 
 <p align="right"><a href="https://github.com/CodeRayZhang/ai-daily-digest"><b>→ 查看全部存档</b></a></p>
