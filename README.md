@@ -49,4 +49,4 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 | [05-28](./2026-05-28.md) | AI 找到 PMF + 科技 CEO 的 AI 精神病 |
 | [05-27](./2026-05-27.md) | 外包+本地 AI 经济拐点 + 内存成本危机 |
 
-<p align="right"><a href="./"><b>→ 查看全部存档</b></a></p>
+<p align="right"><a href="https://github.com/CodeRayZhang/ai-daily-digest"><b>→ 查看全部存档</b></a></p>
