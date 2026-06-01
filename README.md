@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-24_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-23_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
