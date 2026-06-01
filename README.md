@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-22_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-23_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.05.31 — Claude 4.8 Opus 发布：一个敢于说「我不确定」的 AI](./2026-05/2026-05-31.md)
+### [2026.06.01 — Anthropic 登顶：AI 估值之王易主](./2026-06/2026-06-01.md)
 
-Anthropic 给新模型装上了「诚实」——不确定时会主动表达疑虑。在幻觉泛滥的时代，这或许比更高的基准分数更有价值。本期还覆盖了 OpenRouter $1.13B 融资、Copilot 计费争议、Meta AI 吊坠等重磅消息。
+Anthropic 估值超越 OpenAI，全球 AI 初创公司榜首正式换人。本期覆盖了 OpenRouter $1.13B 融资、本地设备跑 4B 图像生成模型、美国企业因成本飙升开始「配给」AI、以及大模型「发疯」的学术争论。
 
-<p align="right"><a href="./2026-05/2026-05-31.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-01.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-01](./2026-06/2026-06-01.md) | Anthropic 登顶：AI 估值之王易主 |
 | [05-31](./2026-05/2026-05-31.md) | Claude 4.8 Opus：「诚实的 AI」来了 |
 | [05-30](./2026-05/2026-05-30.md) | Claude Opus 4.8 + Liquid AI MoE + 潜在推理 |
 | [05-29](./2026-05/2026-05-29.md) | Anthropic 650 亿美元融资 + 互联网为机器重建 |
