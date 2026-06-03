@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-24_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-25_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.02 — Anthropic 正式提交 IPO 申请，AI 巨头迎来上市潮](./2026-06/2026-06-02.md)
+### [2026.06.03 — AI outperforms law professors in Stanford Law study](./2026-06/2026-06-03.md)
 
-Anthropic 已向 SEC 秘密提交 S-1 文件，成为继 OpenAI 之后又一家走向公开市场的 AI 领军企业，引发市场对 AI 估值泡沫的广泛讨论。、Google 母公司 Alphabet 启动史上最大规模股权融资计划，募集 800 亿美元用于 AI 计算基础设施扩建，显示科技巨头在 AI 军备竞赛中的惊人投入。、Nvidia 携多家 PC 厂商推出内置 AI Agent 能力的全新 …
+斯坦福法学院研究发现AI在法律问题上的回答质量超越法学教授，引发法律行业对AI替代性的广泛讨论。、微软发布Project Solara——一款专为AI Agent而非传统App设计的Android操作系统，标志AI原生OS时代的开启。、佛罗里达州因多起与ChatGPT相关的谋杀案起诉OpenAI及Sam Altman，成为AI公司面临的首例重大刑事关联诉讼。、深度技术分析揭示大语言模型并非真正的"…
 
-<p align="right"><a href="./2026-06/2026-06-02.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-03.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-02](./2026-06/2026-06-02.md) | Anthropic 正式提交 IPO 申请，AI 巨头迎来上市潮 |
 | [06-01](./2026-06/2026-06-01.md) | Anthropic超越OpenAI，成为全球最有价值AI初创公司 |
 | [05-31](./2026-05/2026-05-31.md) | Claude 4.8 Opus：「诚实的 AI」来了 |
 | [05-30](./2026-05/2026-05-30.md) | Claude Opus 4.8 + Liquid AI MoE + 潜在推理 |
