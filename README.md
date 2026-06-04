@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-25_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-26_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.03 — AI outperforms law professors in Stanford Law study](./2026-06/2026-06-03.md)
+### [2026.06.04 — [模型发布] Gemma 4 12B: A unified, encoder-free multimodal model](./2026-06/2026-06-04.md)
 
-斯坦福法学院研究发现AI在法律问题上的回答质量超越法学教授，引发法律行业对AI替代性的广泛讨论。、微软发布Project Solara——一款专为AI Agent而非传统App设计的Android操作系统，标志AI原生OS时代的开启。、佛罗里达州因多起与ChatGPT相关的谋杀案起诉OpenAI及Sam Altman，成为AI公司面临的首例重大刑事关联诉讼。、深度技术分析揭示大语言模型并非真正的"…
+Google 发布 Gemma 4 12B，一个无需独立编码器的统一多模态模型，支持文本和图像的原生理解与生成，在开源模型领域引发广泛关注（HN 688分）。、微软与 OpenAI 正式结束独家合作关系，双方在 Build 2026 大会上各自发布 AI Agent 产品线，从盟友变为直接竞争对手。、特朗普签署行政令，要求前沿 AI 模型在公开发布前接受政府安全审查，标志着美国 AI 监管的重大转…
 
-<p align="right"><a href="./2026-06/2026-06-03.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-04.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-03](./2026-06/2026-06-03.md) | AI outperforms law professors in Stanford Law study |
 | [06-02](./2026-06/2026-06-02.md) | Anthropic 正式提交 IPO 申请，AI 巨头迎来上市潮 |
 | [06-01](./2026-06/2026-06-01.md) | Anthropic超越OpenAI，成为全球最有价值AI初创公司 |
 | [05-31](./2026-05/2026-05-31.md) | Claude 4.8 Opus：「诚实的 AI」来了 |
