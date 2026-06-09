@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-29_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-30_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.08 — Google 发布 Gemma 4 12B：可在任何 16GB 内存笔记本上运行的开源模型](./2026-06/2026-06-08.md)
+### [2026.06.09 — [WWDC 2026] Apple 发布 Siri AI 与新一代 Apple Intelligence](./2026-06/2026-06-09.md)
 
-Google 推出新一代轻量级开源模型 Gemma 4 12B，专为本地部署设计，仅需 16GB 内存即可运行，主打端侧推理与开发者友好。、微软秘密研发的 Project Solara 曝光——这是一个从底层为 AI Agent 交互设计的 Android 分支，用「意图流」替代传统 App 网格，标志着操作系统范式的重大转向。、一篇引爆 HN 热议的财务分析指出，Anthropic 与 Open…
+Apple 在 WWDC 2026 上正式发布 Siri AI，推出基于设备端大模型的新一代 Apple Intelligence，全面革新语音助手体验。、苹果在 WWDC 上披露了其 AI 新架构——Core AI 框架，令人意外的是其底层集成了 Google Gemini 模型，标志着两大科技巨头在 AI 领域的罕见深度合作。、一篇引发 HN 热议（397 points）的深度分析文章，指出大…
 
-<p align="right"><a href="./2026-06/2026-06-08.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-09.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-08](./2026-06/2026-06-08.md) | Google 发布 Gemma 4 12B：可在任何 16GB 内存笔记本上运行的开源模型 |
 | [06-07](./2026-06/2026-06-07.md) | OpenAI 推出 Lockdown Mode：防止提示注入攻击的数据保护新机制 |
 | [06-06](2026-06/2026-06-06.md) | Google 将每月向 SpaceX 支付 9.2 亿美元用于 AI 算力 |
 | [06-05](2026-06/2026-06-05.md) | Anthropic 呼吁全球暂停AI开发，警告人类可能失去控制 |
