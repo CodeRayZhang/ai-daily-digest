@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-30_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-31_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.09 — [WWDC 2026] Apple 发布 Siri AI 与新一代 Apple Intelligence](./2026-06/2026-06-09.md)
+### [2026.06.10 — Anthropic 发布首个 Mythos 级模型 Claude Fable 5](./2026-06/2026-06-10.md)
 
-Apple 在 WWDC 2026 上正式发布 Siri AI，推出基于设备端大模型的新一代 Apple Intelligence，全面革新语音助手体验。、苹果在 WWDC 上披露了其 AI 新架构——Core AI 框架，令人意外的是其底层集成了 Google Gemini 模型，标志着两大科技巨头在 AI 领域的罕见深度合作。、一篇引发 HN 热议（397 points）的深度分析文章，指出大…
+Anthropic 正式发布 Claude Fable 5，这是其首个面向公众开放的 Mythos 级模型，支持一键生成可玩视频游戏、代码生成等新能力，性能大幅超越前代。、苹果在 WWDC 2026 上发布 Siri AI，搭载全新 AI 架构并深度集成 Google Gemini 模型，同时推出 AI 照片编辑、Shortcuts 自动化等多项 Apple Intelligence 功能。、微软…
 
-<p align="right"><a href="./2026-06/2026-06-09.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-10.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-09](./2026-06/2026-06-09.md) | [WWDC 2026] Apple 发布 Siri AI 与新一代 Apple Intelligence |
 | [06-08](./2026-06/2026-06-08.md) | Google 发布 Gemma 4 12B：可在任何 16GB 内存笔记本上运行的开源模型 |
 | [06-07](./2026-06/2026-06-07.md) | OpenAI 推出 Lockdown Mode：防止提示注入攻击的数据保护新机制 |
 | [06-06](2026-06/2026-06-06.md) | Google 将每月向 SpaceX 支付 9.2 亿美元用于 AI 算力 |
