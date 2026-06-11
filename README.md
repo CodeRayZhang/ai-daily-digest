@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-31_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-32_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.10 — Anthropic 发布首个 Mythos 级模型 Claude Fable 5](./2026-06/2026-06-10.md)
+### [2026.06.11 — Anthropic 发布 Claude Fable 5 与 Mythos 5 旗舰模型](./2026-06/2026-06-11.md)
 
-Anthropic 正式发布 Claude Fable 5，这是其首个面向公众开放的 Mythos 级模型，支持一键生成可玩视频游戏、代码生成等新能力，性能大幅超越前代。、苹果在 WWDC 2026 上发布 Siri AI，搭载全新 AI 架构并深度集成 Google Gemini 模型，同时推出 AI 照片编辑、Shortcuts 自动化等多项 Apple Intelligence 功能。、微软…
+Anthropic 正式发布新一代旗舰模型 Claude Fable 5 和 Mythos 5，在推理、编程和长上下文理解方面实现重大突破，引发社区广泛讨论（HN 2547 分，2077 条评论）。同时围绕数据保留政策、安全护栏、以及 Claude Desktop 在每次启动时生成 1.8GB Hyper-V 虚拟机等问题也引发热议。、Google 推出 DiffusionGemma，基于扩散模型…
 
-<p align="right"><a href="./2026-06/2026-06-10.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-11.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-10](./2026-06/2026-06-10.md) | Anthropic 发布首个 Mythos 级模型 Claude Fable 5 |
 | [06-09](./2026-06/2026-06-09.md) | [WWDC 2026] Apple 发布 Siri AI 与新一代 Apple Intelligence |
 | [06-08](./2026-06/2026-06-08.md) | Google 发布 Gemma 4 12B：可在任何 16GB 内存笔记本上运行的开源模型 |
 | [06-07](./2026-06/2026-06-07.md) | OpenAI 推出 Lockdown Mode：防止提示注入攻击的数据保护新机制 |
