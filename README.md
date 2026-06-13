@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-33_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-34_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.12 — 德国法院里程碑式裁决：Google须对AI Overviews的错误回答承担法律责任](./2026-06/2026-06-12.md)
+### [2026.06.13 — [重磅] 美国政府下令暂停 Anthropic Fable 5 和 Mythos 5 模型访问](./2026-06/2026-06-13.md)
 
-德国法院裁定Google的AI概览功能生成的内容属于Google"自己的言论"，因此Google应对其中的虚假信息承担法律责任，这一判决可能重塑AI生成内容的全球监管格局。、苹果在WWDC上公布了全新的AI架构Core AI Framework，核心采用Google Gemini模型，标志着苹果在AI战略上的重大转向——从自研转向与第三方深度合作。、LWN报道AI Agent在Fedora社区及其…
+Anthropic 应美国政府指令，暂停其最强大模型 Fable 5 和 Mythos 5 的对外访问，涉及国家安全层面的AI管控升级。该消息在 Hacker News 引发 667 分、390 条评论的激烈讨论，是今日最受关注的AI政策事件。、一名开发者让 AI Agent 自主扫描 DN42（去中心化网络），结果 Agent 产生巨额云服务费用导致运营者"破产"，引发对 AI Agent 自主…
 
-<p align="right"><a href="./2026-06/2026-06-12.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-13.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-12](./2026-06/2026-06-12.md) | 德国法院里程碑式裁决：Google须对AI Overviews的错误回答承担法律责任 |
 | [06-11](./2026-06/2026-06-11.md) | Anthropic 发布 Claude Fable 5 与 Mythos 5 旗舰模型 |
 | [06-10](./2026-06/2026-06-10.md) | Anthropic 发布首个 Mythos 级模型 Claude Fable 5 |
 | [06-09](./2026-06/2026-06-09.md) | [WWDC 2026] Apple 发布 Siri AI 与新一代 Apple Intelligence |
