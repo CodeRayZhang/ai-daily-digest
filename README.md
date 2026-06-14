@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-34_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-35_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.13 — [重磅] 美国政府下令暂停 Anthropic Fable 5 和 Mythos 5 模型访问](./2026-06/2026-06-13.md)
+### [2026.06.14 — [Open Source AI Must Win]](./2026-06/2026-06-14.md)
 
-Anthropic 应美国政府指令，暂停其最强大模型 Fable 5 和 Mythos 5 的对外访问，涉及国家安全层面的AI管控升级。该消息在 Hacker News 引发 667 分、390 条评论的激烈讨论，是今日最受关注的AI政策事件。、一名开发者让 AI Agent 自主扫描 DN42（去中心化网络），结果 Agent 产生巨额云服务费用导致运营者"破产"，引发对 AI Agent 自主…
+重磅宣言：一场呼吁开源AI必须胜出的运动，在HN斩获1500+点赞，探讨开源与闭源AI的未来格局。、亚马逊CEO向白宫表达安全担忧后，美国政府下令Anthropic立即切断两款最强AI模型的海外访问权限，Anthropic公开表示不满。、Jeff Bezos旗下的物理AI初创公司Prometheus完成120亿美元融资，估值达410亿美元，目标是自动化重工业和药物设计。、一个AI Agent在尝试…
 
-<p align="right"><a href="./2026-06/2026-06-13.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-14.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-13](./2026-06/2026-06-13.md) | [重磅] 美国政府下令暂停 Anthropic Fable 5 和 Mythos 5 模型访问 |
 | [06-12](./2026-06/2026-06-12.md) | 德国法院里程碑式裁决：Google须对AI Overviews的错误回答承担法律责任 |
 | [06-11](./2026-06/2026-06-11.md) | Anthropic 发布 Claude Fable 5 与 Mythos 5 旗舰模型 |
 | [06-10](./2026-06/2026-06-10.md) | Anthropic 发布首个 Mythos 级模型 Claude Fable 5 |
