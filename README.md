@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-36_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-37_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.15 — 美国政府以国家安全为由要求Anthropic切断Fable 5/Mythos 5访问，亚马逊安全研究成导火索](./2026-06/2026-06-15.md)
+### [2026.06.16 — 美国政府叫停Anthropic最强模型——这从来不是关于"越狱"](./2026-06/2026-06-16.md)
 
-美国政府下令Anthropic阻止所有外国用户（包括在美外籍人士）访问其最新模型Fable 5和Mythos 5，据称原因是亚马逊CEO Andy Jassy向白宫提交的安全研究显示Fable 5可被诱导输出可用于网络攻击的信息，同时Semafor报道称白宫担忧中国相关团体已获取Mythos访问权限。、DuckDuckGo CEO Gabriel Weinberg发文指出，尽管AI行业热议不断，但…
+美政府以国家安全为由，史无前例地禁止Anthropic部署其最新Fable/Mythos系列模型，TechCrunch深度分析指出其背后本质并非模型安全问题，而是中美AI军备竞赛下的出口管制与地缘政治博弈，此举震惊整个AI行业。、杰夫·贝索斯旗下AI创企Prometheus完成120亿美元超级融资，目标打造面向物理世界的"AGI工程师"，用于制造、建筑等实体产业的自主机器人，这是2026年迄今最大…
 
-<p align="right"><a href="./2026-06/2026-06-15.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-16.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-15](./2026-06/2026-06-15.md) | 美国政府以国家安全为由要求Anthropic切断Fable 5/Mythos 5访问，亚马逊安全研究成导火索 |
 | [06-14](./2026-06/2026-06-14.md) | [Open Source AI Must Win] |
 | [06-13](./2026-06/2026-06-13.md) | [重磅] 美国政府下令暂停 Anthropic Fable 5 和 Mythos 5 模型访问 |
 | [06-12](./2026-06/2026-06-12.md) | 德国法院里程碑式裁决：Google须对AI Overviews的错误回答承担法律责任 |
