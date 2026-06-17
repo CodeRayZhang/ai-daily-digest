@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-37_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-38_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.16 — 美国政府叫停Anthropic最强模型——这从来不是关于"越狱"](./2026-06/2026-06-16.md)
+### [2026.06.17 — [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)](./2026-06/2026-06-17.md)
 
-美政府以国家安全为由，史无前例地禁止Anthropic部署其最新Fable/Mythos系列模型，TechCrunch深度分析指出其背后本质并非模型安全问题，而是中美AI军备竞赛下的出口管制与地缘政治博弈，此举震惊整个AI行业。、杰夫·贝索斯旗下AI创企Prometheus完成120亿美元超级融资，目标打造面向物理世界的"AGI工程师"，用于制造、建筑等实体产业的自主机器人，这是2026年迄今最大…
+本地运行大模型已变得切实可行——文章详细评测了当前开源模型（Llama 4、Qwen 3、DeepSeek等）在消费级硬件上的表现，标志着本地AI推理进入实用阶段。、Tim Ferriss探讨AI生成内容对非虚构图书市场的冲击——当AI能在几秒内生成一本"畅销书"，传统出版业和知识工作者的价值何在？、微软因旗下GitHub Copilot等AI服务算力不足，被迫向竞争对手AWS租用GPU资源——A…
 
-<p align="right"><a href="./2026-06/2026-06-16.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-17.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-16](./2026-06/2026-06-16.md) | 美国政府叫停Anthropic最强模型——这从来不是关于"越狱" |
 | [06-15](./2026-06/2026-06-15.md) | 美国政府以国家安全为由要求Anthropic切断Fable 5/Mythos 5访问，亚马逊安全研究成导火索 |
 | [06-14](./2026-06/2026-06-14.md) | [Open Source AI Must Win] |
 | [06-13](./2026-06/2026-06-13.md) | [重磅] 美国政府下令暂停 Anthropic Fable 5 和 Mythos 5 模型访问 |
