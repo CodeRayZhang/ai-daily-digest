@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-38_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-39_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.17 — [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)](./2026-06/2026-06-17.md)
+### [2026.06.19 — GLM-5.2 登顶开源模型排行榜，成为新一代最强开放权重模型](./2026-06/2026-06-19.md)
 
-本地运行大模型已变得切实可行——文章详细评测了当前开源模型（Llama 4、Qwen 3、DeepSeek等）在消费级硬件上的表现，标志着本地AI推理进入实用阶段。、Tim Ferriss探讨AI生成内容对非虚构图书市场的冲击——当AI能在几秒内生成一本"畅销书"，传统出版业和知识工作者的价值何在？、微软因旗下GitHub Copilot等AI服务算力不足，被迫向竞争对手AWS租用GPU资源——A…
+智谱AI发布GLM-5.2，在Artificial Analysis评测中超越所有开源对手，成为当前最强的开放权重模型，标志着中国开源大模型的新里程碑。、知名开发者 Alex Ellis 撰文探讨本地开源模型的真正价值：不追求对标顶级闭源模型，而是提供隐私、可控、低延迟的差异化体验，重新定义 AI 使用方式。、路透社独家报道：美国政府在最后关头暂缓将 DeepSeek 列入实体清单，同时超过100…
 
-<p align="right"><a href="./2026-06/2026-06-17.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-19.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-17](./2026-06/2026-06-17.md) | [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) |
 | [06-16](./2026-06/2026-06-16.md) | 美国政府叫停Anthropic最强模型——这从来不是关于"越狱" |
 | [06-15](./2026-06/2026-06-15.md) | 美国政府以国家安全为由要求Anthropic切断Fable 5/Mythos 5访问，亚马逊安全研究成导火索 |
 | [06-14](./2026-06/2026-06-14.md) | [Open Source AI Must Win] |
