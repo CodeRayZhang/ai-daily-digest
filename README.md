@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-39_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-40_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.19 — GLM-5.2 登顶开源模型排行榜，成为新一代最强开放权重模型](./2026-06/2026-06-19.md)
+### [2026.06.21 — GPT-5.5 幻觉率是 MIT 开源模型 GLM-5.2 的 3 倍](./2026-06/2026-06-21.md)
 
-智谱AI发布GLM-5.2，在Artificial Analysis评测中超越所有开源对手，成为当前最强的开放权重模型，标志着中国开源大模型的新里程碑。、知名开发者 Alex Ellis 撰文探讨本地开源模型的真正价值：不追求对标顶级闭源模型，而是提供隐私、可控、低延迟的差异化体验，重新定义 AI 使用方式。、路透社独家报道：美国政府在最后关头暂缓将 DeepSeek 列入实体清单，同时超过100…
+一项独立评测对比了 GPT-5.5 与 MIT 许可的 GLM-5.2，发现前者的幻觉率高达后者的 3 倍，引发社区对闭源大模型真实可靠性的广泛讨论（498 票，247 评论）。、AlphaFold 核心作者、2024 年诺贝尔化学奖得主 John Jumper 从 Google DeepMind 离职，转投竞争对手 Anthropic，AI 顶级人才争夺战持续升温。、Cloudflare 发布专…
 
-<p align="right"><a href="./2026-06/2026-06-19.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-21.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-19](./2026-06/2026-06-19.md) | GLM-5.2 登顶开源模型排行榜，成为新一代最强开放权重模型 |
 | [06-17](./2026-06/2026-06-17.md) | [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) |
 | [06-16](./2026-06/2026-06-16.md) | 美国政府叫停Anthropic最强模型——这从来不是关于"越狱" |
 | [06-15](./2026-06/2026-06-15.md) | 美国政府以国家安全为由要求Anthropic切断Fable 5/Mythos 5访问，亚马逊安全研究成导火索 |
