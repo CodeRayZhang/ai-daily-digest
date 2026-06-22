@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-40_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-41_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.21 — GPT-5.5 幻觉率是 MIT 开源模型 GLM-5.2 的 3 倍](./2026-06/2026-06-21.md)
+### [2026.06.22 — Apertus — 开源主权AI基础模型发布](./2026-06/2026-06-22.md)
 
-一项独立评测对比了 GPT-5.5 与 MIT 许可的 GLM-5.2，发现前者的幻觉率高达后者的 3 倍，引发社区对闭源大模型真实可靠性的广泛讨论（498 票，247 评论）。、AlphaFold 核心作者、2024 年诺贝尔化学奖得主 John Jumper 从 Google DeepMind 离职，转投竞争对手 Anthropic，AI 顶级人才争夺战持续升温。、Cloudflare 发布专…
+全新的开源基础模型Apertus正式发布，旨在为主权AI提供独立可控的模型基座，在HN上引发热议（199 points）。、SpaceX宣布将收购AI编程工具Cursor，交易金额高达600亿美元，意图与Anthropic和OpenAI在AI编码领域展开竞争。、Anthropic遵循特朗普政府行政指令，正式关停旗下Fable和Mythos两个AI模型，引发AI监管与政府权力的新一轮讨论。、内部财务…
 
-<p align="right"><a href="./2026-06/2026-06-21.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-22.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-21](./2026-06/2026-06-21.md) | GPT-5.5 幻觉率是 MIT 开源模型 GLM-5.2 的 3 倍 |
 | [06-19](./2026-06/2026-06-19.md) | GLM-5.2 登顶开源模型排行榜，成为新一代最强开放权重模型 |
 | [06-17](./2026-06/2026-06-17.md) | [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) |
 | [06-16](./2026-06/2026-06-16.md) | 美国政府叫停Anthropic最强模型——这从来不是关于"越狱" |
