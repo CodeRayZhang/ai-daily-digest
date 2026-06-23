@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-41_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-42_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.22 — Apertus — 开源主权AI基础模型发布](./2026-06/2026-06-22.md)
+### [2026.06.23 — 挪威近乎全面禁止小学使用AI，引发全球教育政策讨论](./2026-06/2026-06-23.md)
 
-全新的开源基础模型Apertus正式发布，旨在为主权AI提供独立可控的模型基座，在HN上引发热议（199 points）。、SpaceX宣布将收购AI编程工具Cursor，交易金额高达600亿美元，意图与Anthropic和OpenAI在AI编码领域展开竞争。、Anthropic遵循特朗普政府行政指令，正式关停旗下Fable和Mythos两个AI模型，引发AI监管与政府权力的新一轮讨论。、内部财务…
+挪威政府颁布新规，近乎禁止在小学阶段使用人工智能，成为全球首个对AI在教育领域施加如此严格限制的国家，引发广泛关注。、Apertus 推出全新的开放基础模型，旨在为各国政府及机构提供"主权AI"能力，强调数据自主可控与本地化部署。、泄露的财务文件揭示 OpenAI 每年亏损高达数十亿美元，尽管收入快速增长，但高昂的算力与研发成本使其盈利前景仍不明朗。、AI 推理芯片制造商 Groq 确认获得 6.…
 
-<p align="right"><a href="./2026-06/2026-06-22.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-23.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-22](./2026-06/2026-06-22.md) | Apertus — 开源主权AI基础模型发布 |
 | [06-21](./2026-06/2026-06-21.md) | GPT-5.5 幻觉率是 MIT 开源模型 GLM-5.2 的 3 倍 |
 | [06-19](./2026-06/2026-06-19.md) | GLM-5.2 登顶开源模型排行榜，成为新一代最强开放权重模型 |
 | [06-17](./2026-06/2026-06-17.md) | [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) |
