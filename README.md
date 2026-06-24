@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-42_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-43_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.23 — 挪威近乎全面禁止小学使用AI，引发全球教育政策讨论](./2026-06/2026-06-23.md)
+### [2026.06.24 — Mistral OCR 4 — Mistral 发布新一代 OCR 模型](./2026-06/2026-06-24.md)
 
-挪威政府颁布新规，近乎禁止在小学阶段使用人工智能，成为全球首个对AI在教育领域施加如此严格限制的国家，引发广泛关注。、Apertus 推出全新的开放基础模型，旨在为各国政府及机构提供"主权AI"能力，强调数据自主可控与本地化部署。、泄露的财务文件揭示 OpenAI 每年亏损高达数十亿美元，尽管收入快速增长，但高昂的算力与研发成本使其盈利前景仍不明朗。、AI 推理芯片制造商 Groq 确认获得 6.…
+Mistral 推出 OCR 4，新一代光学字符识别模型，在准确率和多语言支持上有显著提升，引发社区广泛关注。、深度分析文章探讨 AI 基础设施与推理成本飙升对行业可持续性的冲击，Hacker News 上引发 344 条激烈讨论。、Anthropic 为 Claude 引入 Tag 功能，允许用户对对话进行分类和标记，增强工作流管理能力。、研究论文提出 Tapered Language Mode…
 
-<p align="right"><a href="./2026-06/2026-06-23.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-24.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-23](./2026-06/2026-06-23.md) | 挪威近乎全面禁止小学使用AI，引发全球教育政策讨论 |
 | [06-22](./2026-06/2026-06-22.md) | Apertus — 开源主权AI基础模型发布 |
 | [06-21](./2026-06/2026-06-21.md) | GPT-5.5 幻觉率是 MIT 开源模型 GLM-5.2 的 3 倍 |
 | [06-19](./2026-06/2026-06-19.md) | GLM-5.2 登顶开源模型排行榜，成为新一代最强开放权重模型 |
