@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-43_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-44_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.24 — Mistral OCR 4 — Mistral 发布新一代 OCR 模型](./2026-06/2026-06-24.md)
+### [2026.06.25 — OpenAI发布首款自研AI芯片"Jalapeño"，由Broadcom代工](./2026-06/2026-06-25.md)
 
-Mistral 推出 OCR 4，新一代光学字符识别模型，在准确率和多语言支持上有显著提升，引发社区广泛关注。、深度分析文章探讨 AI 基础设施与推理成本飙升对行业可持续性的冲击，Hacker News 上引发 344 条激烈讨论。、Anthropic 为 Claude 引入 Tag 功能，允许用户对对话进行分类和标记，增强工作流管理能力。、研究论文提出 Tapered Language Mode…
+OpenAI正式发布其首款定制AI推理芯片Jalapeño，由Broadcom设计与制造，标志着OpenAI从完全依赖NVIDIA GPU转向自主硬件的重要里程碑。、高通宣布收购由LLVM之父Chris Lattner创立的AI基础设施公司Modular，后者以高性能推理引擎MAX闻名，交易旨在强化高通在AI推理领域的布局。、Krea发布Krea 2开源图像模型（12B参数），在多项基准测试中达到…
 
-<p align="right"><a href="./2026-06/2026-06-24.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-25.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-24](./2026-06/2026-06-24.md) | Mistral OCR 4 — Mistral 发布新一代 OCR 模型 |
 | [06-23](./2026-06/2026-06-23.md) | 挪威近乎全面禁止小学使用AI，引发全球教育政策讨论 |
 | [06-22](./2026-06/2026-06-22.md) | Apertus — 开源主权AI基础模型发布 |
 | [06-21](./2026-06/2026-06-21.md) | GPT-5.5 幻觉率是 MIT 开源模型 GLM-5.2 的 3 倍 |
