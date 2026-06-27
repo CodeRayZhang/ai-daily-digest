@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-45_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-46_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.26 — 白宫要求OpenAI放缓新模型发布节奏，AI安全监管再升级](./2026-06/2026-06-26.md)
+### [2026.06.27 — OpenAI 发布 GPT-5.6 Sol 预览，美国政府介入审查分发权限](./2026-06/2026-06-27.md)
 
-美国白宫因安全顾虑正式要求OpenAI延缓其下一代旗舰模型的发布节奏，标志着AI前沿模型正面临前所未有的政府监管压力。、General Intuition 以23亿美元的估值押注视频游戏可作为训练AI智能体的虚拟沙盒，让AI在游戏环境中学会操控、导航与决策后迁移至物理世界。、Claude 凭借更强的推理能力和安全特性，在付费个人用户市场中快速增长，正在从 ChatGPT 手中夺取可观份额，AI消费…
+OpenAI 预览了下一代旗舰模型 GPT-5.6 Sol，展示多模态推理、代码生成等重大突破；同日，华盛顿邮报披露美国政府将审查并决定哪些用户可使用该模型，引发关于AI管控与创新的激烈讨论（HN热度：850+831分，累计1400+评论）。、特朗普政府批准 Anthropic 的旗舰模型 Mythos 面向超过100家美国公司和政府机构开放使用，标志着美国AI监管动态出现重大转折，引发 AI 行…
 
-<p align="right"><a href="./2026-06/2026-06-26.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-27.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-26](./2026-06/2026-06-26.md) | 白宫要求OpenAI放缓新模型发布节奏，AI安全监管再升级 |
 | [06-25](./2026-06/2026-06-25.md) | OpenAI发布首款自研AI芯片"Jalapeño"，由Broadcom代工 |
 | [06-24](./2026-06/2026-06-24.md) | Mistral OCR 4 — Mistral 发布新一代 OCR 模型 |
 | [06-23](./2026-06/2026-06-23.md) | 挪威近乎全面禁止小学使用AI，引发全球教育政策讨论 |
