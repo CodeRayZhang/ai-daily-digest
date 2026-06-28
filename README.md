@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-46_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-47_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.27 — OpenAI 发布 GPT-5.6 Sol 预览，美国政府介入审查分发权限](./2026-06/2026-06-27.md)
+### [2026.06.28 — 美国政府将决定谁可以使用GPT-5.6](./2026-06/2026-06-28.md)
 
-OpenAI 预览了下一代旗舰模型 GPT-5.6 Sol，展示多模态推理、代码生成等重大突破；同日，华盛顿邮报披露美国政府将审查并决定哪些用户可使用该模型，引发关于AI管控与创新的激烈讨论（HN热度：850+831分，累计1400+评论）。、特朗普政府批准 Anthropic 的旗舰模型 Mythos 面向超过100家美国公司和政府机构开放使用，标志着美国AI监管动态出现重大转折，引发 AI 行…
+OpenAI最新模型GPT-5.6的访问权限将由美国政府逐用户审批，引发AI界对政府管控模型分发的激烈讨论（HN 1151分）。、OpenAI正式预览GPT-5.6 Sol，展示新一代模型的推理、编码和多模态能力的重大飞跃（HN 1105分）。、DeepSeek开源DSpark技术，通过投机解码（speculative decoding）显著提升大语言模型推理速度，论文已在GitHub公开（HN …
 
-<p align="right"><a href="./2026-06/2026-06-27.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-28.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-27](./2026-06/2026-06-27.md) | OpenAI 发布 GPT-5.6 Sol 预览，美国政府介入审查分发权限 |
 | [06-26](./2026-06/2026-06-26.md) | 白宫要求OpenAI放缓新模型发布节奏，AI安全监管再升级 |
 | [06-25](./2026-06/2026-06-25.md) | OpenAI发布首款自研AI芯片"Jalapeño"，由Broadcom代工 |
 | [06-24](./2026-06/2026-06-24.md) | Mistral OCR 4 — Mistral 发布新一代 OCR 模型 |
