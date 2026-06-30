@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-48_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-49_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.29 — OpenAI Unveils Its First Custom Chip, Built by Broadcom](./2026-06/2026-06-29.md)
+### [2026.06.30 — GLM 5.2 在网络安全基准测试中击败 Claude](./2026-06/2026-06-30.md)
 
-OpenAI发布首款自研AI芯片，由博通(Broadcom)代工制造，标志着OpenAI从纯软件公司向垂直整合的硬件+软件AI巨头转型的关键一步。、美国政府将Anthropic的Mythos模型大规模部署至100+家企业和政府机构，引发AI安全、出口管制和产业竞争格局的广泛讨论。、初创公司General Intuition获23亿美元融资，押注用电子游戏训练能在真实世界工作的AI智能体，开辟了全新…
+中国 Z.ai 发布 GLM 5.2 模型，在 Semgrep 网络安全基准测试中超越 Anthropic Claude，引发对中国 AI 模型竞争力的广泛讨论。、阿里通义千问 Qwen 3.6 27B 参数版本在本地部署场景表现卓越，多项评测显示其为当前性价比最高的自托管开源大模型。、特朗普政府以安全担忧为由要求 OpenAI 放缓 GPT-5.6 的推出节奏，OpenAI 回应称此类限制不应成…
 
-<p align="right"><a href="./2026-06/2026-06-29.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-30.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-29](./2026-06/2026-06-29.md) | OpenAI Unveils Its First Custom Chip, Built by Broadcom |
 | [06-28](./2026-06/2026-06-28.md) | 美国政府将决定谁可以使用GPT-5.6 |
 | [06-27](./2026-06/2026-06-27.md) | OpenAI 发布 GPT-5.6 Sol 预览，美国政府介入审查分发权限 |
 | [06-26](./2026-06/2026-06-26.md) | 白宫要求OpenAI放缓新模型发布节奏，AI安全监管再升级 |
