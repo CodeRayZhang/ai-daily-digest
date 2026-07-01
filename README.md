@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-49_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-50_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.06.30 — GLM 5.2 在网络安全基准测试中击败 Claude](./2026-06/2026-06-30.md)
+### [2026.07.01 — 美国商务部解除对Anthropic Fable 5及Mythos 5模型的出口管制](./2026-07/2026-07-01.md)
 
-中国 Z.ai 发布 GLM 5.2 模型，在 Semgrep 网络安全基准测试中超越 Anthropic Claude，引发对中国 AI 模型竞争力的广泛讨论。、阿里通义千问 Qwen 3.6 27B 参数版本在本地部署场景表现卓越，多项评测显示其为当前性价比最高的自托管开源大模型。、特朗普政府以安全担忧为由要求 OpenAI 放缓 GPT-5.6 的推出节奏，OpenAI 回应称此类限制不应成…
+经过与特朗普政府数周谈判，Anthropic宣布美国商务部已解除对Claude Fable 5和Mythos 5的出口管制，即日起逐步恢复访问权限。这是AI出口管制领域的一次重大政策转向。、开发者发现Claude Code在API请求中隐写标记代码来源信息，该发现迅速登上Hacker News榜首（1429分），引发关于AI工具透明度、隐私和代码所有权的激烈讨论。、Anthropic推出Claud…
 
-<p align="right"><a href="./2026-06/2026-06-30.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-01.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [06-30](./2026-06/2026-06-30.md) | GLM 5.2 在网络安全基准测试中击败 Claude |
 | [06-29](./2026-06/2026-06-29.md) | OpenAI Unveils Its First Custom Chip, Built by Broadcom |
 | [06-28](./2026-06/2026-06-28.md) | 美国政府将决定谁可以使用GPT-5.6 |
 | [06-27](./2026-06/2026-06-27.md) | OpenAI 发布 GPT-5.6 Sol 预览，美国政府介入审查分发权限 |
