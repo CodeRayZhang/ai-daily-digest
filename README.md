@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-50_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-51_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.01 — 美国商务部解除对Anthropic Fable 5及Mythos 5模型的出口管制](./2026-07/2026-07-01.md)
+### [2026.07.02 — OpenAI发布GPT-5.6，美国AI监管风波中前行](./2026-07/2026-07-02.md)
 
-经过与特朗普政府数周谈判，Anthropic宣布美国商务部已解除对Claude Fable 5和Mythos 5的出口管制，即日起逐步恢复访问权限。这是AI出口管制领域的一次重大政策转向。、开发者发现Claude Code在API请求中隐写标记代码来源信息，该发现迅速登上Hacker News榜首（1429分），引发关于AI工具透明度、隐私和代码所有权的激烈讨论。、Anthropic推出Claud…
+OpenAI在美国特朗普政府监管压力下正式发布GPT-5.6，此前曾被要求延迟发布，凸显AI前沿模型发布日益受地缘政治影响。、知名开源游戏引擎Godot宣布禁止AI撰写的代码贡献，称"无法信任重度依赖AI的开发者能真正理解其代码以修复问题"，引发开源社区对AI辅助编程的激烈讨论（HN 529分）。、Google对Meta使用Gemini AI模型施加限制，FT报道揭示科技巨头间在AI基础设施和模型…
 
-<p align="right"><a href="./2026-07/2026-07-01.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-02.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-01](./2026-07/2026-07-01.md) | 美国商务部解除对Anthropic Fable 5及Mythos 5模型的出口管制 |
 | [06-30](./2026-06/2026-06-30.md) | GLM 5.2 在网络安全基准测试中击败 Claude |
 | [06-29](./2026-06/2026-06-29.md) | OpenAI Unveils Its First Custom Chip, Built by Broadcom |
 | [06-28](./2026-06/2026-06-28.md) | 美国政府将决定谁可以使用GPT-5.6 |
