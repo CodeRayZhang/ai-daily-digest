@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-53_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-54_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.04 — Protect your right to run local AI](./2026-07/2026-07-04.md)
+### [2026.07.05 — Jamesob's guide to running SOTA LLMs locally](./2026-07/2026-07-05.md)
 
-呼吁保护用户在本地运行AI模型的权利，引发广泛讨论——涉及AI监管、隐私与开源自由的平衡。、路透社报道阿里巴巴因担心 Anthropic Claude Code 存在后门风险，计划在内部禁用该工具，反映AI工具安全与地缘政治博弈加剧。、在Hacker News获得高赞的实操指南，详细介绍如何在本地硬件上高效运行当前最先进的大语言模型。、Meta CEO 马克·扎克伯格对员工表示 AI 智能体的进展…
+一份详尽的本地运行SOTA大语言模型实战指南，涵盖消费级硬件选型、模型量化部署、推理优化等全流程，在HN上获得极高关注（396 points）。、阿里巴巴据报禁止员工使用Anthropic的Claude Code编码工具，反映出大型科技企业对AI编程助手带来的代码安全和数据隐私风险的深层担忧。、AI编码工具的快速普及正在从根本上改变初级程序员的就业市场格局——入门级岗位需求骤降，引发行业对技术人才…
 
-<p align="right"><a href="./2026-07/2026-07-04.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-05.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-04](./2026-07/2026-07-04.md) | Protect your right to run local AI |
 | [07-03](./2026-07/2026-07-03.md) | 微软斥资25亿美元成立AI部署公司，加速企业AI落地 |
 | [07-02](./2026-07/2026-07-02.md) | OpenAI发布GPT-5.6，美国AI监管风波中前行 |
 | [07-01](./2026-07/2026-07-01.md) | 美国商务部解除对Anthropic Fable 5及Mythos 5模型的出口管制 |
