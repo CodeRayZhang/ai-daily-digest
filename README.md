@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-54_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-55_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.05 — Jamesob's guide to running SOTA LLMs locally](./2026-07/2026-07-05.md)
+### [2026.07.06 — Zuckerberg称AI Agent进展慢于预期](./2026-07/2026-07-06.md)
 
-一份详尽的本地运行SOTA大语言模型实战指南，涵盖消费级硬件选型、模型量化部署、推理优化等全流程，在HN上获得极高关注（396 points）。、阿里巴巴据报禁止员工使用Anthropic的Claude Code编码工具，反映出大型科技企业对AI编程助手带来的代码安全和数据隐私风险的深层担忧。、AI编码工具的快速普及正在从根本上改变初级程序员的就业市场格局——入门级岗位需求骤降，引发行业对技术人才…
+Meta CEO扎克伯格内部会议坦言AI智能体的发展速度未达预期，引发业界对Agent技术成熟度的广泛讨论。、微软成立独立AI部署公司，承诺投入25亿美元加速企业AI基础设施落地，布局云计算下一阶段竞争。、Anthropic正与三星讨论合作开发专用AI推理芯片，继OpenAI之后又一大模型公司谋求摆脱对英伟达的依赖。、AI图像生成巨头Midjourney推动好莱坞制片厂披露其AI应用详情，版权与透…
 
-<p align="right"><a href="./2026-07/2026-07-05.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-06.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-05](./2026-07/2026-07-05.md) | Jamesob's guide to running SOTA LLMs locally |
 | [07-04](./2026-07/2026-07-04.md) | Protect your right to run local AI |
 | [07-03](./2026-07/2026-07-03.md) | 微软斥资25亿美元成立AI部署公司，加速企业AI落地 |
 | [07-02](./2026-07/2026-07-02.md) | OpenAI发布GPT-5.6，美国AI监管风波中前行 |
