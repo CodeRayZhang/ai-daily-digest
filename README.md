@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-55_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-56_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.06 — Zuckerberg称AI Agent进展慢于预期](./2026-07/2026-07-06.md)
+### [2026.07.07 — GLM 5.2 and the Coming AI Margin Collapse](./2026-07/2026-07-07.md)
 
-Meta CEO扎克伯格内部会议坦言AI智能体的发展速度未达预期，引发业界对Agent技术成熟度的广泛讨论。、微软成立独立AI部署公司，承诺投入25亿美元加速企业AI基础设施落地，布局云计算下一阶段竞争。、Anthropic正与三星讨论合作开发专用AI推理芯片，继OpenAI之后又一大模型公司谋求摆脱对英伟达的依赖。、AI图像生成巨头Midjourney推动好莱坞制片厂披露其AI应用详情，版权与透…
+开源模型GLM 5.2性能逼近闭源前沿，文章深入分析AI模型商品化趋势及即将到来的利润崩塌——模型层价值正快速向应用层转移。、AMD发布面向AI开发者的Ryzen AI Halo开发套件，售价$4000，为本地AI推理与训练提供全新硬件选择，引发开发者社区热议（HN 278分）。、Vercel CEO Guillermo Rauch 提出应将AI模型层与Agent层完全解耦，这一架构主张直击当前A…
 
-<p align="right"><a href="./2026-07/2026-07-06.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-07.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-06](./2026-07/2026-07-06.md) | Zuckerberg称AI Agent进展慢于预期 |
 | [07-05](./2026-07/2026-07-05.md) | Jamesob's guide to running SOTA LLMs locally |
 | [07-04](./2026-07/2026-07-04.md) | Protect your right to run local AI |
 | [07-03](./2026-07/2026-07-03.md) | 微软斥资25亿美元成立AI部署公司，加速企业AI落地 |
