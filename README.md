@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-56_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-57_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.07 — GLM 5.2 and the Coming AI Margin Collapse](./2026-07/2026-07-07.md)
+### [2026.07.08 — GLM 5.2 and the Coming AI Margin Collapse](./2026-07/2026-07-08.md)
 
-开源模型GLM 5.2性能逼近闭源前沿，文章深入分析AI模型商品化趋势及即将到来的利润崩塌——模型层价值正快速向应用层转移。、AMD发布面向AI开发者的Ryzen AI Halo开发套件，售价$4000，为本地AI推理与训练提供全新硬件选择，引发开发者社区热议（HN 278分）。、Vercel CEO Guillermo Rauch 提出应将AI模型层与Agent层完全解耦，这一架构主张直击当前A…
+智谱AI发布GLM-5.2模型，性能逼近前沿闭源模型但成本极低，引发业界对AI模型商品化和利润空间崩塌的深度讨论。Hacker News 当天最热文章（665分/450评论）。、Google发布Gemma 4系列开源权重模型，原生支持多模态（文本+图像），采用混合块扩散架构提升推理效率，在计算效率与推理能力上均有显著提升。、AMD推出Ryzen AI Halo开发者套件，售价$4000，可在本地运…
 
-<p align="right"><a href="./2026-07/2026-07-07.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-08.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-07](./2026-07/2026-07-07.md) | GLM 5.2 and the Coming AI Margin Collapse |
 | [07-06](./2026-07/2026-07-06.md) | Zuckerberg称AI Agent进展慢于预期 |
 | [07-05](./2026-07/2026-07-05.md) | Jamesob's guide to running SOTA LLMs locally |
 | [07-04](./2026-07/2026-07-04.md) | Protect your right to run local AI |
