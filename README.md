@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-57_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-58_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.08 — GLM 5.2 and the Coming AI Margin Collapse](./2026-07/2026-07-08.md)
+### [2026.07.09 — OpenAI 发布 GPT‑Live：实时语音 AI 面向 9 亿用户](./2026-07/2026-07-09.md)
 
-智谱AI发布GLM-5.2模型，性能逼近前沿闭源模型但成本极低，引发业界对AI模型商品化和利润空间崩塌的深度讨论。Hacker News 当天最热文章（665分/450评论）。、Google发布Gemma 4系列开源权重模型，原生支持多模态（文本+图像），采用混合块扩散架构提升推理效率，在计算效率与推理能力上均有显著提升。、AMD推出Ryzen AI Halo开发者套件，售价$4000，可在本地运…
+OpenAI 正式推出 GPT‑Live，一种低延迟实时语音对话 AI，已面向全球 9 亿用户开放，标志着语音交互成为 AI 产品的主战场。、安全团队 Noma Security 展示了如何通过提示注入攻击 GitHub 的 AI Agent（Copilot/Chat），使其泄露用户私有仓库中的敏感代码，引发对 AI 编码工具安全性的广泛关注。、法国 AI 公司 Mistral 推出 Robost…
 
-<p align="right"><a href="./2026-07/2026-07-08.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-09.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-08](./2026-07/2026-07-08.md) | GLM 5.2 and the Coming AI Margin Collapse |
 | [07-07](./2026-07/2026-07-07.md) | GLM 5.2 and the Coming AI Margin Collapse |
 | [07-06](./2026-07/2026-07-06.md) | Zuckerberg称AI Agent进展慢于预期 |
 | [07-05](./2026-07/2026-07-05.md) | Jamesob's guide to running SOTA LLMs locally |
