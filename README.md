@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-58_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-59_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.09 — OpenAI 发布 GPT‑Live：实时语音 AI 面向 9 亿用户](./2026-07/2026-07-09.md)
+### [2026.07.10 — OpenAI 正式发布 GPT-5.6 并推出 ChatGPT Work](./2026-07/2026-07-10.md)
 
-OpenAI 正式推出 GPT‑Live，一种低延迟实时语音对话 AI，已面向全球 9 亿用户开放，标志着语音交互成为 AI 产品的主战场。、安全团队 Noma Security 展示了如何通过提示注入攻击 GitHub 的 AI Agent（Copilot/Chat），使其泄露用户私有仓库中的敏感代码，引发对 AI 编码工具安全性的广泛关注。、法国 AI 公司 Mistral 推出 Robost…
+OpenAI 获美国政府批准后全面公开发布 GPT-5.6，Sam Altman 称其为"有史以来最好的模型"；同日发布 ChatGPT Work，将 ChatGPT 与 Codex 融合为面向非技术用户的 AI 智能体工作平台，同时宣布关闭 ChatGPT Atlas 浏览器。（HN 1076分）、Meta 推出第二代自研模型 Muse Spark 1.1，重点提升代码生成与复杂调试能力，支持端…
 
-<p align="right"><a href="./2026-07/2026-07-09.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-10.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-09](./2026-07/2026-07-09.md) | OpenAI 发布 GPT‑Live：实时语音 AI 面向 9 亿用户 |
 | [07-08](./2026-07/2026-07-08.md) | GLM 5.2 and the Coming AI Margin Collapse |
 | [07-07](./2026-07/2026-07-07.md) | GLM 5.2 and the Coming AI Margin Collapse |
 | [07-06](./2026-07/2026-07-06.md) | Zuckerberg称AI Agent进展慢于预期 |
