@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-60_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-61_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.11 — OpenAI 发布 GPT-5.6 旗舰模型系列，同步推出「ChatGPT Work」企业产品](./2026-07/2026-07-11.md)
+### [2026.07.12 — OpenAI 发布 GPT-5.6 系列模型，同步推出「ChatGPT Work」](./2026-07/2026-07-12.md)
 
-OpenAI 在获得政府绿灯后正式发布 GPT-5.6 系列模型，GPT-5.6 Sol Ultra 甚至在数学领域完成了「Cycle Double Cover 猜想」的证明，同时推出面向企业协作的 ChatGPT Work 产品。、Apple 正式起诉 OpenAI，指控其通过挖角前 Apple 员工非法获取芯片设计与硬件架构等商业机密，此案迅速登顶 Hacker News（544 points…
+OpenAI 在获得政府安全审批后正式发布 GPT-5.6 系列模型，同时宣布推出面向企业的「ChatGPT Work」平台，标志着旗舰模型又一次重大迭代。、科技巨头间的法律风暴：Apple 正式起诉 OpenAI，指控其非法窃取硬件相关商业机密，可能对双方在 AI 领域的合作与竞争格局产生深远影响。、Meta 紧急移除了 Instagram 上允许用户生成公众人物 AI 深度伪造图像的功能，此前…
 
-<p align="right"><a href="./2026-07/2026-07-11.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-12.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-11](./2026-07/2026-07-11.md) | OpenAI 发布 GPT-5.6 旗舰模型系列，同步推出「ChatGPT Work」企业产品 |
 | [07-10](./2026-07/2026-07-10.md) | OpenAI 正式发布 GPT-5.6 并推出 ChatGPT Work |
 | [07-09](./2026-07/2026-07-09.md) | OpenAI 发布 GPT‑Live：实时语音 AI 面向 9 亿用户 |
 | [07-08](./2026-07/2026-07-08.md) | GLM 5.2 and the Coming AI Margin Collapse |
