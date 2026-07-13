@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-61_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-62_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.12 — OpenAI 发布 GPT-5.6 系列模型，同步推出「ChatGPT Work」](./2026-07/2026-07-12.md)
+### [2026.07.13 — [OpenAI Launches Its New Family of Models with GPT-5.6](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/)](./2026-07/2026-07-13.md)
 
-OpenAI 在获得政府安全审批后正式发布 GPT-5.6 系列模型，同时宣布推出面向企业的「ChatGPT Work」平台，标志着旗舰模型又一次重大迭代。、科技巨头间的法律风暴：Apple 正式起诉 OpenAI，指控其非法窃取硬件相关商业机密，可能对双方在 AI 领域的合作与竞争格局产生深远影响。、Meta 紧急移除了 Instagram 上允许用户生成公众人物 AI 深度伪造图像的功能，此前…
+OpenAI 发布全新 GPT-5.6 系列模型，标志着其旗舰模型家族的重大迭代升级，引发行业广泛关注和讨论。、对主流 AI 编程工具进行 token 开销实测：Claude Code 在读取 prompt 前已消耗 33K token，而 OpenCode 仅需 7K，揭示了不同编码代理在效率上的巨大差异。、著名数学家陶哲轩分享使用现代 AI 编程代理（coding agents）开发应用的实战…
 
-<p align="right"><a href="./2026-07/2026-07-12.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-13.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-12](./2026-07/2026-07-12.md) | OpenAI 发布 GPT-5.6 系列模型，同步推出「ChatGPT Work」 |
 | [07-11](./2026-07/2026-07-11.md) | OpenAI 发布 GPT-5.6 旗舰模型系列，同步推出「ChatGPT Work」企业产品 |
 | [07-10](./2026-07/2026-07-10.md) | OpenAI 正式发布 GPT-5.6 并推出 ChatGPT Work |
 | [07-09](./2026-07/2026-07-09.md) | OpenAI 发布 GPT‑Live：实时语音 AI 面向 9 亿用户 |
