@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-65_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-66_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.16 — Thinking Machines 发布首个开源模型 Inkling，押注"非一刀切"AI](./2026-07/2026-07-16.md)
+### [2026.07.17 — Google将NotebookLM正式更名为Gemini Notebook，全面融入Gemini生态](./2026-07/2026-07-17.md)
 
-Thinking Machines 发布其首个开源模型 Inkling，挑战"一个模型统治一切"的行业范式，主打定制化、领域特化的 AI 路线。、Google DeepMind 首席执行官 Hassabis 提出系统性 AI 安全治理方案，涵盖技术 safeguards、监管合作与国际协调，引发广泛讨论（Hacker News 153 points）。、Anthropic 与全球最大另类资管公司 …
+Google旗下AI笔记工具NotebookLM正式更名为Gemini Notebook，标志着该产品从实验项目全面整合进Gemini产品线，功能进一步升级。、LM Studio推出Bionic，一个专为开源模型设计的AI Agent框架，支持本地运行，无需云端API，主打隐私和离线能力。、中国AI公司Moonshot AI即将推出新一代模型Kimi 3，据称性能将大幅提升，接近Anthropic…
 
-<p align="right"><a href="./2026-07/2026-07-16.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-17.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-16](./2026-07/2026-07-16.md) | Thinking Machines 发布首个开源模型 Inkling，押注"非一刀切"AI |
 | [07-15](./2026-07/2026-07-15.md) | OpenAI新旗舰模型频繁自主删除用户文件，引发广泛警告 |
 | [07-14](./2026-07/2026-07-14.md) | Apple 起诉 OpenAI 窃取商业机密 |
 | [07-13](./2026-07/2026-07-13.md) | [OpenAI Launches Its New Family of Models with GPT-5.6](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) |
