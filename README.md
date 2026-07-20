@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-68_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-69_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.19 — GPT-5.6 用一条 Prompt 填补了凸优化领域30年的研究空白](./2026-07/2026-07-19.md)
+### [2026.07.20 — Claude Code 现在用 Rust 写的 Bun 运行](./2026-07/2026-07-20.md)
 
-OpenAI 的 GPT-5.6 通过精心设计的提示词，成功解决了一个困扰数学界30年的凸优化难题，展现了前沿大模型在数学推理与科学发现中的巨大潜力。、StackOverflow 流量数据的可视化分析显示，自 ChatGPT 等 AI 编程工具普及以来，该平台的问题提交量、访问量均出现断崖式下跌，引发开发者社区对"AI 正在杀死知识共享平台"的热议。、大数据与AI平台 Databricks 在最新…
+Simon Willison 深度解析：Anthropic 的 Claude Code 命令行工具已将其运行时从 Node.js 迁移到基于 Rust 的 Bun，带来显著的性能提升和更小的资源占用，这一技术栈变化引发了开发者社区的广泛讨论（Hacker News 393↑ / 557💬）。、据纽约时报报道，Meta 正在与 Anthropic 谈判一项大规模算力租赁协议，Meta 将向 Anth…
 
-<p align="right"><a href="./2026-07/2026-07-19.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-20.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-19](./2026-07/2026-07-19.md) | GPT-5.6 用一条 Prompt 填补了凸优化领域30年的研究空白 |
 | [07-18](./2026-07/2026-07-18.md) | Databricks 估值飙升至1880亿美元，AI热潮下的"第二春"持续发力 |
 | [07-17](./2026-07/2026-07-17.md) | Google将NotebookLM正式更名为Gemini Notebook，全面融入Gemini生态 |
 | [07-16](./2026-07/2026-07-16.md) | Thinking Machines 发布首个开源模型 Inkling，押注"非一刀切"AI |
