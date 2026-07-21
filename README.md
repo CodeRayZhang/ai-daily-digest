@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-69_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-70_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.20 — Claude Code 现在用 Rust 写的 Bun 运行](./2026-07/2026-07-20.md)
+### [2026.07.21 — 中国开源权重AI战略正在取胜](./2026-07/2026-07-21.md)
 
-Simon Willison 深度解析：Anthropic 的 Claude Code 命令行工具已将其运行时从 Node.js 迁移到基于 Rust 的 Bun，带来显著的性能提升和更小的资源占用，这一技术栈变化引发了开发者社区的广泛讨论（Hacker News 393↑ / 557💬）。、据纽约时报报道，Meta 正在与 Anthropic 谈判一项大规模算力租赁协议，Meta 将向 Anth…
+分析文章指出中国通过开放权重（open-weights）策略在AI领域快速追赶，而美国闭源模式正丧失优势，引发行业对开源vs闭源路线的深度反思。、阿里巴巴发布新一代开源大模型 Qwen 3.8，在多项基准测试中表现优异，延续中国开源模型强势势头，引发全球AI社区广泛关注。、Anthropic 的 Claude Fable 模型成功构造出 Jacobian 猜想（一个著名数学猜想）的反例，展示了前沿…
 
-<p align="right"><a href="./2026-07/2026-07-20.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-21.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-20](./2026-07/2026-07-20.md) | Claude Code 现在用 Rust 写的 Bun 运行 |
 | [07-19](./2026-07/2026-07-19.md) | GPT-5.6 用一条 Prompt 填补了凸优化领域30年的研究空白 |
 | [07-18](./2026-07/2026-07-18.md) | Databricks 估值飙升至1880亿美元，AI热潮下的"第二春"持续发力 |
 | [07-17](./2026-07/2026-07-17.md) | Google将NotebookLM正式更名为Gemini Notebook，全面融入Gemini生态 |
