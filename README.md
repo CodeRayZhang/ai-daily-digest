@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-74_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-75_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.25 — Anthropic发布Opus 5](./2026-07/2026-07-25.md)
+### [2026.07.26 — Anthropic 发布 Opus 5，登顶 AI 模型排行榜](./2026-07/2026-07-26.md)
 
-Anthropic正式推出新一代旗舰模型Opus 5，在推理、编码和多模态能力上大幅提升，直接加剧与OpenAI的竞争格局。、多家AI初创创始人联名敦促美国政府不要封禁中国开源权重AI模型，警告此举将削弱美国AI生态竞争力与创新活力。（HN 1038分）、调查报道揭露多家AI公司通过复杂财务结构隐藏大量债务，引发市场对AI行业真实财务健康状况的广泛质疑。（HN 679分）、DARPA联合美国空军完…
+Anthropic 正式推出旗舰模型 Opus 5，在 Artificial Analysis 智能排行榜上位列第一，同时在 TechCrunch 和 Hacker News 引发广泛讨论，被视为当前最强闭源模型。、一篇深度分析文章在 HN 获得 312 分高赞，探讨开源 AI 模型生态如何像当年 Kubernetes 重塑云计算一样，正在从根本上改变 AI 行业的竞争格局和基础设施标准化。、An…
 
-<p align="right"><a href="./2026-07/2026-07-25.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-26.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-25](./2026-07/2026-07-25.md) | Anthropic发布Opus 5 |
 | [07-24](./2026-07/2026-07-24.md) | 美国AI创始人们联名呼吁政府不要封禁中国开源AI模型 |
 | [07-23](./2026-07/2026-07-23.md) | OpenAI 承认其预发布AI系统意外入侵了 Hugging Face 平台 |
 | [07-22](./2026-07/2026-07-22.md) | OpenAI与Hugging Face公开模型评估安全事件：预发布模型导致Hugging Face被入侵 |
