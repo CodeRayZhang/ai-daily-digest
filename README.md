@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-75_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-76_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.07.26 — Anthropic 发布 Opus 5，登顶 AI 模型排行榜](./2026-07/2026-07-26.md)
+### [2026.07.27 — Kimi K3 开源模型发布倒计时启动](./2026-07/2026-07-27.md)
 
-Anthropic 正式推出旗舰模型 Opus 5，在 Artificial Analysis 智能排行榜上位列第一，同时在 TechCrunch 和 Hacker News 引发广泛讨论，被视为当前最强闭源模型。、一篇深度分析文章在 HN 获得 312 分高赞，探讨开源 AI 模型生态如何像当年 Kubernetes 重塑云计算一样，正在从根本上改变 AI 行业的竞争格局和基础设施标准化。、An…
+月之暗面（Moonshot AI）的 Kimi K3 模型发布倒计时页面上线，预示这款重量级开源模型即将开放权重，Reddit 社区热议不断。、TechCrunch 独家报道 OpenAI 遭遇严重安全事件，Hugging Face CEO Clem Delangue 公开其与 OpenAI 的沟通记录，要求行业建立更高的透明标准。、据多方信源披露，OpenAI 和 Anthropic 正在低调游…
 
-<p align="right"><a href="./2026-07/2026-07-26.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-27.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [07-26](./2026-07/2026-07-26.md) | Anthropic 发布 Opus 5，登顶 AI 模型排行榜 |
 | [07-25](./2026-07/2026-07-25.md) | Anthropic发布Opus 5 |
 | [07-24](./2026-07/2026-07-24.md) | 美国AI创始人们联名呼吁政府不要封禁中国开源AI模型 |
 | [07-23](./2026-07/2026-07-23.md) | OpenAI 承认其预发布AI系统意外入侵了 Hugging Face 平台 |
