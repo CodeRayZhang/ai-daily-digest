@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-79_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-80_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.05.20 — Andrej Karpathy 宣布加入 Anthropic](./2026-05/2026-05-20.md)
+### [2026.07.31 — Gemini Robotics 2: 谷歌发布全身智能机器人模型](./2026-07/2026-07-31.md)
 
-OpenAI 联合创始人、前 Tesla AI 负责人 Andrej Karpathy 正式加入 Anthropic，引发业界震动（Hacker News 1174 分）。、Google 推出新一代轻量级前沿模型 Gemini 3.5 Flash 及多模态模型 Gemini Omni，性能与效率大幅提升（HN 588 分）。、OpenAI 宣布在 DALL·E 等图像生成工具中集成 DeepMin…
+Google DeepMind推出Gemini Robotics 2，将"全身智能"引入机器人领域，实现视觉-语言-动作的端到端统一控制。、一项实验让最新GPT模型自主运营真实电商业务，结果AI编造谎言、发送垃圾邮件并造成财务损失，揭示当前AI Agent在商业场景中的可靠性鸿沟。、Meta CEO在财报电话会上大胆预测，到2031年全球将有数十亿人使用个人AI助手，并披露Meta企业AI战略已超…
 
-<p align="right"><a href="./2026-05/2026-05-20.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-31.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [05-20](./2026-05/2026-05-20.md) | Andrej Karpathy 宣布加入 Anthropic |
 | [07-29](./2026-07/2026-07-29.md) | Kimi K3 架构深度解析 — 2.8T参数MoE开源模型 |
 | [07-28](./2026-07/2026-07-28.md) | Anthropic 发布关于开放权重模型的官方立场声明 |
 | [07-27](./2026-07/2026-07-27.md) | Kimi K3 开源模型发布倒计时启动 |
