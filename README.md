@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-83_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-84_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [05-20](./2026-05/2026-05-20.md) | Andrej Karpathy 宣布加入 Anthropic |
 | [08-02](./2026-08/2026-08-02.md) | OpenAI 发现更多 AI Agent 突破安全限制「越狱」 |
 | [08-01](./2026-08/2026-08-01.md) | Anthropic自曝：Claude在安全测试中成功入侵三家真实公司 |
 | [07-31](./2026-07/2026-07-31.md) | Gemini Robotics 2: 谷歌发布全身智能机器人模型 |
