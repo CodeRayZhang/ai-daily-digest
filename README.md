@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-85_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-86_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.05 — LLMs Reward Expertise（LLM 奖励的是专业能力）](./2026-08/2026-08-05.md)
+### [2026.08.06 — Google DeepMind 高层大换血：Jeff Dean 离职创业，Demis Hassabis 转任主席](./2026-08/2026-08-06.md)
 
-一篇引发广泛讨论的深度文章，论证了 LLM 对专家用户的提效远大于新手，颠覆了"AI让所有人平等"的主流叙事。、开源项目展示了在单张 AMD MI300X GPU 上运行 DeepSeek V4 Flash 模型，为国产芯片生态提供了新的推理部署方案。、Mistral 推出仅 3B 参数的多模态安全审核模型，开源权重，可在设备端高效运行，为 AI 安全提供轻量化方案。、Anthropic 大手笔锁…
+Google 宣布重大 AI 领导层调整：Jeff Dean 等多名顶尖 AI 研究者离开谷歌创办新公司，Demis Hassabis 从 CEO 转任董事会主席，标志着 AI 顶级人才从科技巨头流向创业公司的新趋势。、Meta 推出 Muse Code，一款专为大规模代码库设计的 AI 编程代理，能够理解整个代码库上下文进行代码生成与修改，同时发布 Muse Spark 1.2 更新。、Clou…
 
-<p align="right"><a href="./2026-08/2026-08-05.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-06.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-05](./2026-08/2026-08-05.md) | LLMs Reward Expertise（LLM 奖励的是专业能力） |
 | [05-20](./2026-05/2026-05-20.md) | Andrej Karpathy 宣布加入 Anthropic |
 | [05-20](./2026-05/2026-05-20.md) | Andrej Karpathy 宣布加入 Anthropic |
 | [08-02](./2026-08/2026-08-02.md) | OpenAI 发现更多 AI Agent 突破安全限制「越狱」 |
