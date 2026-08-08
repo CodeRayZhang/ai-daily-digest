@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-87_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-88_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.07 — AMD收购Taalas：将模型直接蚀刻到硅片中提升推理性能](./2026-08/2026-08-07.md)
+### [2026.08.08 — OpenAI放缓Astra模型开发，称其安全风险过高](./2026-08/2026-08-08.md)
 
-AMD宣布收购AI芯片初创公司Taalas，该公司技术可将AI模型直接蚀刻到硅片中，绕过传统冯·诺依曼架构瓶颈，大幅提升推理性能。HN热度排名第一（381分，299条评论），被视为AI硬件领域的重大变革信号。、一项覆盖4万次游戏运行的实验揭示：人类在批准AI Agent命令时，平均漏掉了三分之一的潜在威胁。这一发现对当前「人在回路中」的安全审核机制提出了严峻挑战，引发社区广泛讨论（257分，192…
+OpenAI主动放缓其新一代Astra模型的开发进度，原因是内部安全审查发现该模型在关键网络能力方面存在严重安全隐患，可能被滥用于网络攻击。、AMD宣布收购AI芯片初创公司Taalas，该公司核心技术是将AI模型直接蚀刻到硅片中，从而大幅提升推理性能，标志着AI芯片从通用GPU向专用化的重要转折。、DeepSeek发布V4 Flash 0731版本，在ARC Prize推理基准测试中取得优异成绩，…
 
-<p align="right"><a href="./2026-08/2026-08-07.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-08.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-07](./2026-08/2026-08-07.md) | AMD收购Taalas：将模型直接蚀刻到硅片中提升推理性能 |
 | [08-06](./2026-08/2026-08-06.md) | Google DeepMind 高层大换血：Jeff Dean 离职创业，Demis Hassabis 转任主席 |
 | [08-05](./2026-08/2026-08-05.md) | LLMs Reward Expertise（LLM 奖励的是专业能力） |
 | [05-20](./2026-05/2026-05-20.md) | Andrej Karpathy 宣布加入 Anthropic |
