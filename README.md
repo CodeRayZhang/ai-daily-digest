@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-88_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-89_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.08 — OpenAI放缓Astra模型开发，称其安全风险过高](./2026-08/2026-08-08.md)
+### [2026.08.09 — DeepSeek V4 Flash 0731 登顶 ARC Prize 推理排行榜](./2026-08/2026-08-09.md)
 
-OpenAI主动放缓其新一代Astra模型的开发进度，原因是内部安全审查发现该模型在关键网络能力方面存在严重安全隐患，可能被滥用于网络攻击。、AMD宣布收购AI芯片初创公司Taalas，该公司核心技术是将AI模型直接蚀刻到硅片中，从而大幅提升推理性能，标志着AI芯片从通用GPU向专用化的重要转折。、DeepSeek发布V4 Flash 0731版本，在ARC Prize推理基准测试中取得优异成绩，…
+DeepSeek 最新 V4 Flash 模型在抽象推理基准测试 ARC Prize 上取得突破性成绩，引发社区广泛讨论。、AMD 收购初创公司 Taalas，通过将模型权重蚀刻到硅片中实现芯片级推理加速，颠覆传统 GPU 推理范式。、美国能源部推出国家级开源 AI 模型倡议，旨在推动科学计算与能源领域的开放 AI 基础设施建设。、OpenAI 爬虫因配置失误对 Hugging Face 发起大规…
 
-<p align="right"><a href="./2026-08/2026-08-08.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-09.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-08](./2026-08/2026-08-08.md) | OpenAI放缓Astra模型开发，称其安全风险过高 |
 | [08-07](./2026-08/2026-08-07.md) | AMD收购Taalas：将模型直接蚀刻到硅片中提升推理性能 |
 | [08-06](./2026-08/2026-08-06.md) | Google DeepMind 高层大换血：Jeff Dean 离职创业，Demis Hassabis 转任主席 |
 | [08-05](./2026-08/2026-08-05.md) | LLMs Reward Expertise（LLM 奖励的是专业能力） |
