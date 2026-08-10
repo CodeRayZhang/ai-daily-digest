@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-89_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-90_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.09 — DeepSeek V4 Flash 0731 登顶 ARC Prize 推理排行榜](./2026-08/2026-08-09.md)
+### [2026.08.10 — The Tragedy of the Commons, AI Edition](./2026-08/2026-08-10.md)
 
-DeepSeek 最新 V4 Flash 模型在抽象推理基准测试 ARC Prize 上取得突破性成绩，引发社区广泛讨论。、AMD 收购初创公司 Taalas，通过将模型权重蚀刻到硅片中实现芯片级推理加速，颠覆传统 GPU 推理范式。、美国能源部推出国家级开源 AI 模型倡议，旨在推动科学计算与能源领域的开放 AI 基础设施建设。、OpenAI 爬虫因配置失误对 Hugging Face 发起大规…
+《经济学人》深度分析：AI行业正面临"公地悲剧"——各家公司竞相抓取数据、消耗能源，集体行为正在耗尽公共资源并引发监管反弹。、最新数据显示OpenAI和Anthropic两家公司占据了AI行业约70%的收入份额，揭示了当前AI商业化高度集中的格局。、开源项目展示了DeepSeek-V4的一项技术创新：将推理过程中的"思维链"压缩到潜在空间中进行，大幅提升推理效率并降低token消耗。、OpenAI…
 
-<p align="right"><a href="./2026-08/2026-08-09.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-10.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-09](./2026-08/2026-08-09.md) | DeepSeek V4 Flash 0731 登顶 ARC Prize 推理排行榜 |
 | [08-08](./2026-08/2026-08-08.md) | OpenAI放缓Astra模型开发，称其安全风险过高 |
 | [08-07](./2026-08/2026-08-07.md) | AMD收购Taalas：将模型直接蚀刻到硅片中提升推理性能 |
 | [08-06](./2026-08/2026-08-06.md) | Google DeepMind 高层大换血：Jeff Dean 离职创业，Demis Hassabis 转任主席 |
