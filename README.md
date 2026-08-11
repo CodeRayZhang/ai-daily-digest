@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-90_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-91_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.10 — The Tragedy of the Commons, AI Edition](./2026-08/2026-08-10.md)
+### [2026.05.20 — Andrej Karpathy 宣布加入 Anthropic](./2026-05/2026-05-20.md)
 
-《经济学人》深度分析：AI行业正面临"公地悲剧"——各家公司竞相抓取数据、消耗能源，集体行为正在耗尽公共资源并引发监管反弹。、最新数据显示OpenAI和Anthropic两家公司占据了AI行业约70%的收入份额，揭示了当前AI商业化高度集中的格局。、开源项目展示了DeepSeek-V4的一项技术创新：将推理过程中的"思维链"压缩到潜在空间中进行，大幅提升推理效率并降低token消耗。、OpenAI…
+OpenAI 联合创始人、前 Tesla AI 负责人 Andrej Karpathy 正式加入 Anthropic，引发业界震动（Hacker News 1174 分）。、Google 推出新一代轻量级前沿模型 Gemini 3.5 Flash 及多模态模型 Gemini Omni，性能与效率大幅提升（HN 588 分）。、OpenAI 宣布在 DALL·E 等图像生成工具中集成 DeepMin…
 
-<p align="right"><a href="./2026-08/2026-08-10.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-05/2026-05-20.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-10](./2026-08/2026-08-10.md) | The Tragedy of the Commons, AI Edition |
 | [08-09](./2026-08/2026-08-09.md) | DeepSeek V4 Flash 0731 登顶 ARC Prize 推理排行榜 |
 | [08-08](./2026-08/2026-08-08.md) | OpenAI放缓Astra模型开发，称其安全风险过高 |
 | [08-07](./2026-08/2026-08-07.md) | AMD收购Taalas：将模型直接蚀刻到硅片中提升推理性能 |
