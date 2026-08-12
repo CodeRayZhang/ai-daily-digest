@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-91_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-92_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.05.20 — Andrej Karpathy 宣布加入 Anthropic](./2026-05/2026-05-20.md)
+### [2026.08.12 — Stealing Reasoning Traces from Proprietary LLM APIs](./2026-08/2026-08-12.md)
 
-OpenAI 联合创始人、前 Tesla AI 负责人 Andrej Karpathy 正式加入 Anthropic，引发业界震动（Hacker News 1174 分）。、Google 推出新一代轻量级前沿模型 Gemini 3.5 Flash 及多模态模型 Gemini Omni，性能与效率大幅提升（HN 588 分）。、OpenAI 宣布在 DALL·E 等图像生成工具中集成 DeepMin…
+AI安全重磅研究：揭示如何从商用LLM API中窃取推理链（Chain-of-Thought），对OpenAI、Anthropic等封闭模型构成隐私与知识产权威胁，HN热度最高的AI文章（496分）。、Anthropic内部未公开模型在某个数学领域重大未解难题上取得突破性进展，展示了前沿AI在科学研究中的巨大潜力。、ChatGPT与Gemini双双突破10亿用户大关，标志着大模型消费级应用进入全新…
 
-<p align="right"><a href="./2026-05/2026-05-20.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-12.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [05-20](./2026-05/2026-05-20.md) | Andrej Karpathy 宣布加入 Anthropic |
 | [08-10](./2026-08/2026-08-10.md) | The Tragedy of the Commons, AI Edition |
 | [08-09](./2026-08/2026-08-09.md) | DeepSeek V4 Flash 0731 登顶 ARC Prize 推理排行榜 |
 | [08-08](./2026-08/2026-08-08.md) | OpenAI放缓Astra模型开发，称其安全风险过高 |
