@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-92_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-93_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.12 — Stealing Reasoning Traces from Proprietary LLM APIs](./2026-08/2026-08-12.md)
+### [2026.08.13 — [DeepSeek V4 Pro 0813 发布]](./2026-08/2026-08-13.md)
 
-AI安全重磅研究：揭示如何从商用LLM API中窃取推理链（Chain-of-Thought），对OpenAI、Anthropic等封闭模型构成隐私与知识产权威胁，HN热度最高的AI文章（496分）。、Anthropic内部未公开模型在某个数学领域重大未解难题上取得突破性进展，展示了前沿AI在科学研究中的巨大潜力。、ChatGPT与Gemini双双突破10亿用户大关，标志着大模型消费级应用进入全新…
+DeepSeek 发布新一代大规模混合专家（MoE）模型 V4 Pro 0813，支持超 100 万 token 上下文窗口（最大输出 38.4 万 token），推理定价低廉，成为 Hacker News 当日最热话题。、xAI 推出 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行的智能体（long-running agents）能力，以及更具野心的交互式与视觉类复杂任务。、Op…
 
-<p align="right"><a href="./2026-08/2026-08-12.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-13.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-12](./2026-08/2026-08-12.md) | Stealing Reasoning Traces from Proprietary LLM APIs |
 | [05-20](./2026-05/2026-05-20.md) | Andrej Karpathy 宣布加入 Anthropic |
 | [08-10](./2026-08/2026-08-10.md) | The Tragedy of the Commons, AI Edition |
 | [08-09](./2026-08/2026-08-09.md) | DeepSeek V4 Flash 0731 登顶 ARC Prize 推理排行榜 |
