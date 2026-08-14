@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-93_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-94_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.13 — [DeepSeek V4 Pro 0813 发布]](./2026-08/2026-08-13.md)
+### [2026.08.14 — [Gemini 3.7 Flash：Google 发布新一代高速轻量模型]](./2026-08/2026-08-14.md)
 
-DeepSeek 发布新一代大规模混合专家（MoE）模型 V4 Pro 0813，支持超 100 万 token 上下文窗口（最大输出 38.4 万 token），推理定价低廉，成为 Hacker News 当日最热话题。、xAI 推出 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行的智能体（long-running agents）能力，以及更具野心的交互式与视觉类复杂任务。、Op…
+Google 发布 Gemini 3.7 Flash，主打低延迟与高性价比推理，登上 Hacker News 当日榜首（624 分），被看作对标主流轻量级前沿模型的强力竞争者。、DeepSeek 推出开源开发者工具 Harness 预览版，让开发者能更便捷地集成、编排并评测其模型能力，Hacker News 讨论热度高达 560 分。、Cerebras 公布在其晶圆级芯片上加速 OpenAI 的 …
 
-<p align="right"><a href="./2026-08/2026-08-13.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-14.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-13](./2026-08/2026-08-13.md) | [DeepSeek V4 Pro 0813 发布] |
 | [08-12](./2026-08/2026-08-12.md) | Stealing Reasoning Traces from Proprietary LLM APIs |
 | [05-20](./2026-05/2026-05-20.md) | Andrej Karpathy 宣布加入 Anthropic |
 | [08-10](./2026-08/2026-08-10.md) | The Tragedy of the Commons, AI Edition |
