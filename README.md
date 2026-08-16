@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-95_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-96_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.15 — GLM-5.3: Frontier coding with emergent cyber capabilities](./2026-08/2026-08-15.md)
+### [2026.08.16 — [Google 正在让隐私 AI 变得实用：同态加密]](./2026-08/2026-08-16.md)
 
-智谱AI（Zhipu）发布新一代旗舰模型 GLM-5.3，前端编码能力达到业界前沿水平，并"涌现"出网络安全攻防能力，成为 Hacker News 当日榜首（1000+ 赞）。、阿里通义千问发布 Qwen 3.8 27B 开源模型（含 FP8 量化版），以 27B 的中等参数量提供接近前沿的性能，主打高效、可本地部署，位列 HN 当日第二（900+ 赞）。、一篇高热度技术博客深入剖析 Anthro…
+Google 官方博客披露，其通过同态加密技术让 AI 服务在不接触用户明文数据的情况下完成推理与训练，推动"隐私 AI"从理论走向实用。、OpenAI 为 GPT-5.6 Sol 新增 "Ultrafast" 模式，将推理速度提升 14 倍，以更低延迟和成本应对高频任务。、彭博社报道，阿里巴巴 AI 模型（如 Qwen 系列）累计下载量突破 30 亿次，首次超越 Meta 与 Google，凸显…
 
-<p align="right"><a href="./2026-08/2026-08-15.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-16.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-15](./2026-08/2026-08-15.md) | GLM-5.3: Frontier coding with emergent cyber capabilities |
 | [08-14](./2026-08/2026-08-14.md) | [Gemini 3.7 Flash：Google 发布新一代高速轻量模型] |
 | [08-13](./2026-08/2026-08-13.md) | [DeepSeek V4 Pro 0813 发布] |
 | [08-12](./2026-08/2026-08-12.md) | Stealing Reasoning Traces from Proprietary LLM APIs |
