@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-96_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-97_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.16 — [Google 正在让隐私 AI 变得实用：同态加密]](./2026-08/2026-08-16.md)
+### [2026.08.17 — Stripe 以超 70 亿美元收购 AI 网关平台 OpenRouter](./2026-08/2026-08-17.md)
 
-Google 官方博客披露，其通过同态加密技术让 AI 服务在不接触用户明文数据的情况下完成推理与训练，推动"隐私 AI"从理论走向实用。、OpenAI 为 GPT-5.6 Sol 新增 "Ultrafast" 模式，将推理速度提升 14 倍，以更低延迟和成本应对高频任务。、彭博社报道，阿里巴巴 AI 模型（如 Qwen 系列）累计下载量突破 30 亿次，首次超越 Meta 与 Google，凸显…
+据报道，支付巨头 Stripe 将以超过 70 亿美元收购 AI 模型路由/网关初创公司 OpenRouter，这是 Stripe 迄今进军 AI 基础设施的最大一笔交易。、The Verge 报道，OpenAI 已解散负责评估与防范前沿 AI 风险的"准备团队"，在 AI 信任危机背景下引发外界对其安全承诺的质疑。、OpenAI 为最新模型 GPT-5.6 Sol 推出名为 "Ultrafast…
 
-<p align="right"><a href="./2026-08/2026-08-16.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-17.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-16](./2026-08/2026-08-16.md) | [Google 正在让隐私 AI 变得实用：同态加密] |
 | [08-15](./2026-08/2026-08-15.md) | GLM-5.3: Frontier coding with emergent cyber capabilities |
 | [08-14](./2026-08/2026-08-14.md) | [Gemini 3.7 Flash：Google 发布新一代高速轻量模型] |
 | [08-13](./2026-08/2026-08-13.md) | [DeepSeek V4 Pro 0813 发布] |
