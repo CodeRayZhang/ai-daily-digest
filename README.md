@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-97_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-98_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.17 — Stripe 以超 70 亿美元收购 AI 网关平台 OpenRouter](./2026-08/2026-08-17.md)
+### [2026.08.18 — [Claude: System Prompts（Anthropic 公开 Claude 系统提示词）]](./2026-08/2026-08-18.md)
 
-据报道，支付巨头 Stripe 将以超过 70 亿美元收购 AI 模型路由/网关初创公司 OpenRouter，这是 Stripe 迄今进军 AI 基础设施的最大一笔交易。、The Verge 报道，OpenAI 已解散负责评估与防范前沿 AI 风险的"准备团队"，在 AI 信任危机背景下引发外界对其安全承诺的质疑。、OpenAI 为最新模型 GPT-5.6 Sol 推出名为 "Ultrafast…
+Anthropic 首次公开披露 Claude 各模型的完整系统提示词，展示其如何约束模型行为、价值观与安全边界，成为理解主流大模型"底层人格"的一手资料。、Roboflow 对 OpenAI 最新视觉模型 GPT-5.6 Sol 进行系统评测，在检测、计数、OCR、信息抽取等任务上与主流视觉语言模型对比速度、成本与准确率。、安全公司 Wiz 披露：GitHub Copilot 的 AI 自动修复…
 
-<p align="right"><a href="./2026-08/2026-08-17.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-18.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-17](./2026-08/2026-08-17.md) | Stripe 以超 70 亿美元收购 AI 网关平台 OpenRouter |
 | [08-16](./2026-08/2026-08-16.md) | [Google 正在让隐私 AI 变得实用：同态加密] |
 | [08-15](./2026-08/2026-08-15.md) | GLM-5.3: Frontier coding with emergent cyber capabilities |
 | [08-14](./2026-08/2026-08-14.md) | [Gemini 3.7 Flash：Google 发布新一代高速轻量模型] |
