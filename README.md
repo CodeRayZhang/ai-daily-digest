@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-98_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-99_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.18 — [Claude: System Prompts（Anthropic 公开 Claude 系统提示词）]](./2026-08/2026-08-18.md)
+### [2026.08.19 — Cursor 发布 Origin：向 GitHub 发起挑战的代码托管平台](./2026-08/2026-08-19.md)
 
-Anthropic 首次公开披露 Claude 各模型的完整系统提示词，展示其如何约束模型行为、价值观与安全边界，成为理解主流大模型"底层人格"的一手资料。、Roboflow 对 OpenAI 最新视觉模型 GPT-5.6 Sol 进行系统评测，在检测、计数、OCR、信息抽取等任务上与主流视觉语言模型对比速度、成本与准确率。、安全公司 Wiz 披露：GitHub Copilot 的 AI 自动修复…
+AI 编程编辑器 Cursor 推出自有代码托管平台 Origin，直接对标 GitHub，在开发者社区引发广泛讨论（HN 476 分）。、谷歌在拍卖中买下已倒闭的 Spirit 航空数据用于 AI 模型训练，引发对数据来源与隐私的讨论（HN 当日最高热度）。、智谱 GLM-5.3 最新模型的 Artificial Analysis 基准测试结果发布，展示新一代大模型的性能表现。、开发者将 Goo…
 
-<p align="right"><a href="./2026-08/2026-08-18.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-19.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-18](./2026-08/2026-08-18.md) | [Claude: System Prompts（Anthropic 公开 Claude 系统提示词）] |
 | [08-17](./2026-08/2026-08-17.md) | Stripe 以超 70 亿美元收购 AI 网关平台 OpenRouter |
 | [08-16](./2026-08/2026-08-16.md) | [Google 正在让隐私 AI 变得实用：同态加密] |
 | [08-15](./2026-08/2026-08-15.md) | GLM-5.3: Frontier coding with emergent cyber capabilities |
