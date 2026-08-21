@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-100_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-101_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.20 — [OpenAI hit the brakes. Now what?]](./2026-08/2026-08-20.md)
+### [2026.08.21 — [OpenRouter 宣布加入 Stripe]](./2026-08/2026-08-21.md)
 
-OpenAI 主动放缓 AI 模型训练与发布节奏，这一"自愿刹车"举动引发业界对其战略与安全考量的广泛讨论。、菲尔兹奖得主陶哲轩在 ICM 2026 演讲后撰文，探讨数学界如何应对能够完成研究级数学任务的 AI 工具，并重新审视数学研究的价值与目标。、Google 在拍卖中买下已破产的 Spirit 航空数据用于 AI 训练，引发关于企业数据被用于 AI 的隐私与伦理争议（当日 HN 最高热度 6…
+AI 模型路由/聚合平台 OpenRouter 宣布被支付巨头 Stripe 收购，成为本周 AI 行业最重磅的并购动态。、菲尔兹奖得主陶哲轩撰文探讨：当 AI 具备研究级数学能力后，数学研究的价值与目标该如何重新定位。、Modular 宣布将其高性能 AI 编程语言 Mojo 以 Apache 2.0 协议开源，为 AI 系统开发提供新选择。、Ornith 发布开源模型家族 1.5 版本，将"自…
 
-<p align="right"><a href="./2026-08/2026-08-20.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-21.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-20](./2026-08/2026-08-20.md) | [OpenAI hit the brakes. Now what?] |
 | [08-19](./2026-08/2026-08-19.md) | Cursor 发布 Origin：向 GitHub 发起挑战的代码托管平台 |
 | [08-18](./2026-08/2026-08-18.md) | [Claude: System Prompts（Anthropic 公开 Claude 系统提示词）] |
 | [08-17](./2026-08/2026-08-17.md) | Stripe 以超 70 亿美元收购 AI 网关平台 OpenRouter |
