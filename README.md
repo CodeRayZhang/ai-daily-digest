@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-101_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-102_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.21 — [OpenRouter 宣布加入 Stripe]](./2026-08/2026-08-21.md)
+### [2026.08.22 — [DeepSeek-v4-flash-vision-exp]](./2026-08/2026-08-22.md)
 
-AI 模型路由/聚合平台 OpenRouter 宣布被支付巨头 Stripe 收购，成为本周 AI 行业最重磅的并购动态。、菲尔兹奖得主陶哲轩撰文探讨：当 AI 具备研究级数学能力后，数学研究的价值与目标该如何重新定位。、Modular 宣布将其高性能 AI 编程语言 Mojo 以 Apache 2.0 协议开源，为 AI 系统开发提供新选择。、Ornith 发布开源模型家族 1.5 版本，将"自…
+DeepSeek 发布实验性「闪电」视觉模型 DeepSeek-v4-flash-vision-exp，主打高速多模态视觉理解，官方 API 文档已上线，在 Hacker News 上引发热议（467 分）。、Google 团队开源扩散语言模型 DiffusionGemma，基于 MoE 架构 Gemma 4 微调，一次并行迭代 256 个 token，突破自回归逐 token 解码的速度瓶颈。、…
 
-<p align="right"><a href="./2026-08/2026-08-21.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-22.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-21](./2026-08/2026-08-21.md) | [OpenRouter 宣布加入 Stripe] |
 | [08-20](./2026-08/2026-08-20.md) | [OpenAI hit the brakes. Now what?] |
 | [08-19](./2026-08/2026-08-19.md) | Cursor 发布 Origin：向 GitHub 发起挑战的代码托管平台 |
 | [08-18](./2026-08/2026-08-18.md) | [Claude: System Prompts（Anthropic 公开 Claude 系统提示词）] |
