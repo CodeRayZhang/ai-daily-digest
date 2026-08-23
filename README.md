@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-102_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-103_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.22 — [DeepSeek-v4-flash-vision-exp]](./2026-08/2026-08-22.md)
+### [2026.05.20 — Andrej Karpathy 宣布加入 Anthropic](./2026-05/2026-05-20.md)
 
-DeepSeek 发布实验性「闪电」视觉模型 DeepSeek-v4-flash-vision-exp，主打高速多模态视觉理解，官方 API 文档已上线，在 Hacker News 上引发热议（467 分）。、Google 团队开源扩散语言模型 DiffusionGemma，基于 MoE 架构 Gemma 4 微调，一次并行迭代 256 个 token，突破自回归逐 token 解码的速度瓶颈。、…
+OpenAI 联合创始人、前 Tesla AI 负责人 Andrej Karpathy 正式加入 Anthropic，引发业界震动（Hacker News 1174 分）。、Google 推出新一代轻量级前沿模型 Gemini 3.5 Flash 及多模态模型 Gemini Omni，性能与效率大幅提升（HN 588 分）。、OpenAI 宣布在 DALL·E 等图像生成工具中集成 DeepMin…
 
-<p align="right"><a href="./2026-08/2026-08-22.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-05/2026-05-20.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-22](./2026-08/2026-08-22.md) | [DeepSeek-v4-flash-vision-exp] |
 | [08-21](./2026-08/2026-08-21.md) | [OpenRouter 宣布加入 Stripe] |
 | [08-20](./2026-08/2026-08-20.md) | [OpenAI hit the brakes. Now what?] |
 | [08-19](./2026-08/2026-08-19.md) | Cursor 发布 Origin：向 GitHub 发起挑战的代码托管平台 |
