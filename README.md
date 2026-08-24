@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-103_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-104_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.05.20 — Andrej Karpathy 宣布加入 Anthropic](./2026-05/2026-05-20.md)
+### [2026.08.24 — [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes]](./2026-08/2026-08-24.md)
 
-OpenAI 联合创始人、前 Tesla AI 负责人 Andrej Karpathy 正式加入 Anthropic，引发业界震动（Hacker News 1174 分）。、Google 推出新一代轻量级前沿模型 Gemini 3.5 Flash 及多模态模型 Gemini Omni，性能与效率大幅提升（HN 588 分）。、OpenAI 宣布在 DALL·E 等图像生成工具中集成 DeepMin…
+实测开源模型 Qwen 3.8 27B 在逆向工程任务上 30 分钟即完成，达到前沿闭源模型水平，凸显开源权重模型的快速追赶。、Model Context Protocol 发布官方路线图，规划认证、安全、标准目录等方向，推动 AI Agent 工具生态走向标准化。、深入解析本地运行大模型时采样参数、提示词格式等常见误区，解释为何本地模型表现常明显逊于云端。、DeepMind 校友创立的 Inhe…
 
-<p align="right"><a href="./2026-05/2026-05-20.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-24.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [05-20](./2026-05/2026-05-20.md) | Andrej Karpathy 宣布加入 Anthropic |
 | [08-22](./2026-08/2026-08-22.md) | [DeepSeek-v4-flash-vision-exp] |
 | [08-21](./2026-08/2026-08-21.md) | [OpenRouter 宣布加入 Stripe] |
 | [08-20](./2026-08/2026-08-20.md) | [OpenAI hit the brakes. Now what?] |
