@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-104_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-105_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.24 — [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes]](./2026-08/2026-08-24.md)
+### [2026.08.25 — OpenAI 下调 GPT-5.6 Sol 模型价格](./2026-08/2026-08-25.md)
 
-实测开源模型 Qwen 3.8 27B 在逆向工程任务上 30 分钟即完成，达到前沿闭源模型水平，凸显开源权重模型的快速追赶。、Model Context Protocol 发布官方路线图，规划认证、安全、标准目录等方向，推动 AI Agent 工具生态走向标准化。、深入解析本地运行大模型时采样参数、提示词格式等常见误区，解释为何本地模型表现常明显逊于云端。、DeepMind 校友创立的 Inhe…
+OpenAI 宣布旗舰下一代模型 GPT-5.6 Sol 降价（优惠至少持续到 11 月 21 日）。、开源 AI 平台 Hugging Face 据报收到约 130 亿美元估值的收购要约，创始团队仍在权衡责任与前景。、一篇引发热议的安全研究文章，探讨大语言模型如何利用推理引擎缺陷获得对宿主机的控制。、深度报道 OpenAI 将 AI Agent 从软件工程师场景推向大众市场的战略与挑战。
 
-<p align="right"><a href="./2026-08/2026-08-24.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-25.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-24](./2026-08/2026-08-24.md) | [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes] |
 | [05-20](./2026-05/2026-05-20.md) | Andrej Karpathy 宣布加入 Anthropic |
 | [08-22](./2026-08/2026-08-22.md) | [DeepSeek-v4-flash-vision-exp] |
 | [08-21](./2026-08/2026-08-21.md) | [OpenRouter 宣布加入 Stripe] |
