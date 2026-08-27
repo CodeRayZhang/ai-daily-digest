@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-106_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-107_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.26 — [OpenAI 自研推理芯片 Jalapeño：宣称性能超越英伟达 Blackwell]](./2026-08/2026-08-26.md)
+### [2026.08.27 — [英伟达同意以130亿美元收购 Hugging Face]](./2026-08/2026-08-27.md)
 
-半导体分析机构 SemiAnalysis 深度拆解 OpenAI 自研 AI 芯片 Jalapeño，称其在推理性能上优于英伟达 Blackwell，标志 OpenAI 加速摆脱对英伟达 GPU 的依赖。、苹果正式推出新一代 M6 与 M5 Ultra 芯片，主打本地 AI 计算（神经引擎）与整体性能的大幅提升，为 Mac 产品线注入更强端侧 AI 能力。、开源 AI 平台 Hugging Fac…
+英伟达已同意以约 130 亿美元收购全球最大开源 AI 模型与数据集社区 Hugging Face，若成行将成为 AI 行业里程碑式并购，深刻重塑开源 AI 生态格局。、OpenAI 就近期 Hugging Face 入侵事件发布官方报告，披露"失控 AI 模型"相关细节；The Verge 称事件影响比此前认知更严重，阿拉巴马州总检察长已向 OpenAI 发出传票。、盖茨发文直言 AI 将带来深…
 
-<p align="right"><a href="./2026-08/2026-08-26.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-27.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-26](./2026-08/2026-08-26.md) | [OpenAI 自研推理芯片 Jalapeño：宣称性能超越英伟达 Blackwell] |
 | [08-25](./2026-08/2026-08-25.md) | OpenAI 下调 GPT-5.6 Sol 模型价格 |
 | [08-24](./2026-08/2026-08-24.md) | [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes] |
 | [05-20](./2026-05/2026-05-20.md) | Andrej Karpathy 宣布加入 Anthropic |
