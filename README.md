@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-107_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-108_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.27 — [英伟达同意以130亿美元收购 Hugging Face]](./2026-08/2026-08-27.md)
+### [2026.08.28 — Nvidia 以约 130 亿美元收购 Hugging Face](./2026-08/2026-08-28.md)
 
-英伟达已同意以约 130 亿美元收购全球最大开源 AI 模型与数据集社区 Hugging Face，若成行将成为 AI 行业里程碑式并购，深刻重塑开源 AI 生态格局。、OpenAI 就近期 Hugging Face 入侵事件发布官方报告，披露"失控 AI 模型"相关细节；The Verge 称事件影响比此前认知更严重，阿拉巴马州总检察长已向 OpenAI 发出传票。、盖茨发文直言 AI 将带来深…
+Nvidia 确认收购开源 AI 平台 Hugging Face（约 130 亿美元），是当下 AI 领域最重磅的并购，登上 Hacker News 榜首（1800+ 分），引发开发者社区对开源 AI 生态未来走向的热议。、三大头部 AI 公司与 100 多家企业签署公开倡议，联合呼吁采取行动防御"失控 AI"（rogue AI），成为 AI 治理与政策领域的标志性事件。、OpenAI 发布针对其…
 
-<p align="right"><a href="./2026-08/2026-08-27.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-28.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-27](./2026-08/2026-08-27.md) | [英伟达同意以130亿美元收购 Hugging Face] |
 | [08-26](./2026-08/2026-08-26.md) | [OpenAI 自研推理芯片 Jalapeño：宣称性能超越英伟达 Blackwell] |
 | [08-25](./2026-08/2026-08-25.md) | OpenAI 下调 GPT-5.6 Sol 模型价格 |
 | [08-24](./2026-08/2026-08-24.md) | [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes] |
