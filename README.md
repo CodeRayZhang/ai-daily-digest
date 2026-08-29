@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-108_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-109_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.28 — Nvidia 以约 130 亿美元收购 Hugging Face](./2026-08/2026-08-28.md)
+### [2026.08.29 — [法官裁定特朗普政府对 Anthropic 的"黑名单"封锁违法]](./2026-08/2026-08-29.md)
 
-Nvidia 确认收购开源 AI 平台 Hugging Face（约 130 亿美元），是当下 AI 领域最重磅的并购，登上 Hacker News 榜首（1800+ 分），引发开发者社区对开源 AI 生态未来走向的热议。、三大头部 AI 公司与 100 多家企业签署公开倡议，联合呼吁采取行动防御"失控 AI"（rogue AI），成为 AI 治理与政策领域的标志性事件。、OpenAI 发布针对其…
+美国联邦法官裁定，特朗普政府以"供应链风险"为由将 Anthropic 列入黑名单、削弱其国家安全合同的行为属非法，Anthropic 首次在法庭上战胜五角大楼。、Google 连发两款新模型：Gemini 3.5 Transcribe 主打高精度语音转写，Gemini Omni 1.1 Flash 面向全模态低延迟应用，双双冲上 Hacker News 热榜。、多家媒体证实英伟达正接近以约 13…
 
-<p align="right"><a href="./2026-08/2026-08-28.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-29.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-28](./2026-08/2026-08-28.md) | Nvidia 以约 130 亿美元收购 Hugging Face |
 | [08-27](./2026-08/2026-08-27.md) | [英伟达同意以130亿美元收购 Hugging Face] |
 | [08-26](./2026-08/2026-08-26.md) | [OpenAI 自研推理芯片 Jalapeño：宣称性能超越英伟达 Blackwell] |
 | [08-25](./2026-08/2026-08-25.md) | OpenAI 下调 GPT-5.6 Sol 模型价格 |
