@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-110_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-111_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.30 — [GLM-5.3 is now open-weight]](./2026-08/2026-08-30.md)
+### [2026.08.31 — Sony Music Publishing 与 Warner Chappell 起诉 Anthropic 版权侵权](./2026-08/2026-08-31.md)
 
-智谱AI（国际品牌 Z.ai）发布开源权重（open-weight）大模型 GLM-5.3，是当日 Hacker News 最热 AI 话题（780+ 分），引发开源社区对新一代开源旗舰模型的广泛评测与关注。、美国联邦法官裁定，特朗普政府将 Anthropic 列入"供应链风险"黑名单的行为违法，这是 Anthropic 对抗政府封禁取得的首次司法胜利，AI 政策与监管领域的重要先例。、索尼音乐与…
+两大音乐版权方指控 Anthropic 在模型训练中"公然盗用"受版权保护的歌词内容，AI 与音乐产业的版权之争再度升级。、一名 Anthropic 研究员分享了 AI 通过自我评估与迭代实现能力自我提升的技术思路，引发业界对"递归自我改进（RSI）"的热议。、联邦法院认定政府对 Anthropic 的制裁缺乏依据、程序违法，为 AI 公司挑战政府监管树立了重要判例。、分析指出 Nvidia 正通…
 
-<p align="right"><a href="./2026-08/2026-08-30.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-08/2026-08-31.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-30](./2026-08/2026-08-30.md) | [GLM-5.3 is now open-weight] |
 | [08-29](./2026-08/2026-08-29.md) | [法官裁定特朗普政府对 Anthropic 的"黑名单"封锁违法] |
 | [08-28](./2026-08/2026-08-28.md) | Nvidia 以约 130 亿美元收购 Hugging Face |
 | [08-27](./2026-08/2026-08-27.md) | [英伟达同意以130亿美元收购 Hugging Face] |
