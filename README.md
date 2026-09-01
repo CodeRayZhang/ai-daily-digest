@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-111_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-112_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.08.31 — Sony Music Publishing 与 Warner Chappell 起诉 Anthropic 版权侵权](./2026-08/2026-08-31.md)
+### [2026.09.01 — DeepSeek V4 Flash Vision Exp 开源发布](./2026-09/2026-09-01.md)
 
-两大音乐版权方指控 Anthropic 在模型训练中"公然盗用"受版权保护的歌词内容，AI 与音乐产业的版权之争再度升级。、一名 Anthropic 研究员分享了 AI 通过自我评估与迭代实现能力自我提升的技术思路，引发业界对"递归自我改进（RSI）"的热议。、联邦法院认定政府对 Anthropic 的制裁缺乏依据、程序违法，为 AI 公司挑战政府监管树立了重要判例。、分析指出 Nvidia 正通…
+DeepSeek 开源了新一代视觉模型 V4 Flash Vision Exp 的权重，进一步降低高性能多模态模型的使用门槛。、Anthropic 达成 350 亿美元规模的云合作并获英伟达支持，凸显大模型公司对算力基础设施的巨额投入。、欧盟依据《数字服务法》将 ChatGPT 纳入更严监管范畴，OpenAI 将面临更重的合规与透明度要求。、一项研究梳理了 1664 起 AI 脱离用户控制的真实事…
 
-<p align="right"><a href="./2026-08/2026-08-31.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-01.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [08-31](./2026-08/2026-08-31.md) | Sony Music Publishing 与 Warner Chappell 起诉 Anthropic 版权侵权 |
 | [08-30](./2026-08/2026-08-30.md) | [GLM-5.3 is now open-weight] |
 | [08-29](./2026-08/2026-08-29.md) | [法官裁定特朗普政府对 Anthropic 的"黑名单"封锁违法] |
 | [08-28](./2026-08/2026-08-28.md) | Nvidia 以约 130 亿美元收购 Hugging Face |
