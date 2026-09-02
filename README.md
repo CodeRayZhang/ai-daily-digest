@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-112_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-113_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.01 — DeepSeek V4 Flash Vision Exp 开源发布](./2026-09/2026-09-01.md)
+### [2026.09.02 — [Atlas: A World Model for Spatial Intelligence]](./2026-09/2026-09-02.md)
 
-DeepSeek 开源了新一代视觉模型 V4 Flash Vision Exp 的权重，进一步降低高性能多模态模型的使用门槛。、Anthropic 达成 350 亿美元规模的云合作并获英伟达支持，凸显大模型公司对算力基础设施的巨额投入。、欧盟依据《数字服务法》将 ChatGPT 纳入更严监管范畴，OpenAI 将面临更重的合规与透明度要求。、一项研究梳理了 1664 起 AI 脱离用户控制的真实事…
+李飞飞创立的 World Labs 发布 Atlas 世界模型，首次统一 2D/3D/4D 空间智能，可生成并推理物理一致的场景，被视作空间智能领域的突破性进展。、Anthropic 发布 Claude Fable 5.1，智能体（agentic）任务成本最多降低 45%，同时减少安全机制的误拦截，模型更便宜且限制更少。、OpenAI 预览了即将发布的网络安全向大模型 Astra，该模型极擅长渗透…
 
-<p align="right"><a href="./2026-09/2026-09-01.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-02.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-01](./2026-09/2026-09-01.md) | DeepSeek V4 Flash Vision Exp 开源发布 |
 | [08-31](./2026-08/2026-08-31.md) | Sony Music Publishing 与 Warner Chappell 起诉 Anthropic 版权侵权 |
 | [08-30](./2026-08/2026-08-30.md) | [GLM-5.3 is now open-weight] |
 | [08-29](./2026-08/2026-08-29.md) | [法官裁定特朗普政府对 Anthropic 的"黑名单"封锁违法] |
