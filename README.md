@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-113_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-114_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.02 — [Atlas: A World Model for Spatial Intelligence]](./2026-09/2026-09-02.md)
+### [2026.09.03 — [Claude Fable 5.1 and Claude Mythos 5.1]](./2026-09/2026-09-03.md)
 
-李飞飞创立的 World Labs 发布 Atlas 世界模型，首次统一 2D/3D/4D 空间智能，可生成并推理物理一致的场景，被视作空间智能领域的突破性进展。、Anthropic 发布 Claude Fable 5.1，智能体（agentic）任务成本最多降低 45%，同时减少安全机制的误拦截，模型更便宜且限制更少。、OpenAI 预览了即将发布的网络安全向大模型 Astra，该模型极擅长渗透…
+Anthropic 发布新一代 Claude Fable 5.1 与 Claude Mythos 5.1 模型，官方称智能体（agentic）任务成本最多降低 45%，且限制更少，成为当日 Hacker News 最高热度话题（1377 分）。、Google 推出 Gemini 3.8 Flash 及面向网络安全场景的 "Flash Cyber" 变体，主打更快更省成本，但官方提示新模型"更努力"…
 
-<p align="right"><a href="./2026-09/2026-09-02.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-03.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-02](./2026-09/2026-09-02.md) | [Atlas: A World Model for Spatial Intelligence] |
 | [09-01](./2026-09/2026-09-01.md) | DeepSeek V4 Flash Vision Exp 开源发布 |
 | [08-31](./2026-08/2026-08-31.md) | Sony Music Publishing 与 Warner Chappell 起诉 Anthropic 版权侵权 |
 | [08-30](./2026-08/2026-08-30.md) | [GLM-5.3 is now open-weight] |
