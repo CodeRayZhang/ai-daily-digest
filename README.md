@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-114_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-115_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.03 — [Claude Fable 5.1 and Claude Mythos 5.1]](./2026-09/2026-09-03.md)
+### [2026.09.04 — [OpenAI 发布新一代旗舰模型 GPT-6 Astra]](./2026-09/2026-09-04.md)
 
-Anthropic 发布新一代 Claude Fable 5.1 与 Claude Mythos 5.1 模型，官方称智能体（agentic）任务成本最多降低 45%，且限制更少，成为当日 Hacker News 最高热度话题（1377 分）。、Google 推出 Gemini 3.8 Flash 及面向网络安全场景的 "Flash Cyber" 变体，主打更快更省成本，但官方提示新模型"更努力"…
+OpenAI 正式推出 GPT-6 Astra 旗舰模型，官方宣称其"已进入 AGI 时代"，采用循环（recurrent）架构并引发安全专家热议，是当日最重磅的模型发布。、Anthropic 发布 Claude Fable 5.1 与 Mythos 5.1，主打多模态与世界建模（world modeling）能力，是 Hacker News 当日最高分（1400+）话题。、谷歌发布 Gemini…
 
-<p align="right"><a href="./2026-09/2026-09-03.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-04.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-03](./2026-09/2026-09-03.md) | [Claude Fable 5.1 and Claude Mythos 5.1] |
 | [09-02](./2026-09/2026-09-02.md) | [Atlas: A World Model for Spatial Intelligence] |
 | [09-01](./2026-09/2026-09-01.md) | DeepSeek V4 Flash Vision Exp 开源发布 |
 | [08-31](./2026-08/2026-08-31.md) | Sony Music Publishing 与 Warner Chappell 起诉 Anthropic 版权侵权 |
