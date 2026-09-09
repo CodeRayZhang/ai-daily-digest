@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-119_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-120_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.08 — OpenAI launches Astra, its powerful (and controversial) new model](./2026-09/2026-09-08.md)
+### [2026.09.09 — OpenAI 宣称其模型解决了纳维-斯托克斯千禧年难题（并深陷争议）](./2026-09/2026-09-09.md)
 
-OpenAI 发布新一代旗舰模型 Astra，性能强大但因其能力与安全性争议不断，随后还出现发布混乱、Altman 公开致歉的插曲。、Google DeepMind 发布迄今最先进的全球天气 AI 模型 WeatherNext 3，进一步提升气象预报的精度与时效。、开源工具 Engrim 为各类 AI 命令行工具提供通用、本地优先的 SQLite 记忆引擎，让 CLI 智能体拥有持久记忆。、一项对…
+OpenAI 宣布内部研究模型攻克了克雷千禧年大奖难题之一的纳维-斯托克斯方程（光滑受迫情形的有限时间爆破）；但 NYU 数学家 Tristan Buckmaster 随即发布长篇声明，质疑 OpenAI 在获悉其团队进展后仓促发布、且"手段不光彩"，将"AI 辅助数学研究的优先权与科研伦理"之争推上风口浪尖（Hacker News 当日最高热度 1100+ 分）。、Meta 正式发布面向消费者的…
 
-<p align="right"><a href="./2026-09/2026-09-08.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-09.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-08](./2026-09/2026-09-08.md) | OpenAI launches Astra, its powerful (and controversial) new model |
 | [09-07](./2026-09/2026-09-07.md) | [OpenAI launches Astra, its powerful (and controversial) new model] |
 | [09-06](./2026-09/2026-09-06.md) | [GPT-6 Astra — OpenAI 新一代旗舰模型] |
 | [09-05](./2026-09/2026-09-05.md) | OpenAI 发布旗舰模型 GPT-6 Astra，宣称「进入 AGI 时代」 |
