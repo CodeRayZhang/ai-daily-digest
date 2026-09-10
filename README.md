@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-120_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-121_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.09 — OpenAI 宣称其模型解决了纳维-斯托克斯千禧年难题（并深陷争议）](./2026-09/2026-09-09.md)
+### [2026.09.10 — [OpenAI's sly mathematical breakthrough sends a chill through academia]](./2026-09/2026-09-10.md)
 
-OpenAI 宣布内部研究模型攻克了克雷千禧年大奖难题之一的纳维-斯托克斯方程（光滑受迫情形的有限时间爆破）；但 NYU 数学家 Tristan Buckmaster 随即发布长篇声明，质疑 OpenAI 在获悉其团队进展后仓促发布、且"手段不光彩"，将"AI 辅助数学研究的优先权与科研伦理"之争推上风口浪尖（Hacker News 当日最高热度 1100+ 分）。、Meta 正式发布面向消费者的…
+OpenAI 声称解决了数学界"千禧年难题"之一的纳维-斯托克斯问题，但其非传统的发布方式在学术界引发争议与质疑。、Meta 推出主打隐私保护设计的个人 AI 助手 Muse，在 Hacker News 上引发热议（600+ 赞、700+ 评论）。、一位从 Anthropic 离职的研究员公开警告 AI 可能"杀死全人类"，再次引爆关于 AI 安全与对齐问题的讨论。、AI 音乐公司 Suno 发布…
 
-<p align="right"><a href="./2026-09/2026-09-09.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-10.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-09](./2026-09/2026-09-09.md) | OpenAI 宣称其模型解决了纳维-斯托克斯千禧年难题（并深陷争议） |
 | [09-08](./2026-09/2026-09-08.md) | OpenAI launches Astra, its powerful (and controversial) new model |
 | [09-07](./2026-09/2026-09-07.md) | [OpenAI launches Astra, its powerful (and controversial) new model] |
 | [09-06](./2026-09/2026-09-06.md) | [GPT-6 Astra — OpenAI 新一代旗舰模型] |
