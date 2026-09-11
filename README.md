@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-121_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-122_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.10 — [OpenAI's sly mathematical breakthrough sends a chill through academia]](./2026-09/2026-09-10.md)
+### [2026.09.11 — [Cognition 发布新一代编程模型 SWE-2]](./2026-09/2026-09-11.md)
 
-OpenAI 声称解决了数学界"千禧年难题"之一的纳维-斯托克斯问题，但其非传统的发布方式在学术界引发争议与质疑。、Meta 推出主打隐私保护设计的个人 AI 助手 Muse，在 Hacker News 上引发热议（600+ 赞、700+ 评论）。、一位从 Anthropic 离职的研究员公开警告 AI 可能"杀死全人类"，再次引爆关于 AI 安全与对齐问题的讨论。、AI 音乐公司 Suno 发布…
+Cognition 推出 AI 编程模型 SWE-2，宣称其表现可对标 Fable 5.1 与 GPT-Astra，成为代码智能体领域的新竞争焦点。、OpenAI 发布的工作被指可能吸收了数学家尚未发表的研究，学术界再度掀起关于 AI 公司数据使用与信任边界的讨论。、OpenAI 发布的 Navier-Stokes 求解成果中附有一份 Lean 4 形式化证明，被视为 AI 辅助数学形式化验证的重…
 
-<p align="right"><a href="./2026-09/2026-09-10.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-11.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-10](./2026-09/2026-09-10.md) | [OpenAI's sly mathematical breakthrough sends a chill through academia] |
 | [09-09](./2026-09/2026-09-09.md) | OpenAI 宣称其模型解决了纳维-斯托克斯千禧年难题（并深陷争议） |
 | [09-08](./2026-09/2026-09-08.md) | OpenAI launches Astra, its powerful (and controversial) new model |
 | [09-07](./2026-09/2026-09-07.md) | [OpenAI launches Astra, its powerful (and controversial) new model] |
