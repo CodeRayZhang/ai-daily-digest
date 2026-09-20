@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-130_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-131_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.19 — Microsoft exec called AI scraping 'the largest theft of labor in human history'](./2026-09/2026-09-19.md)
+### [2026.09.20 — [Microsoft exec called AI scraping 'the largest theft of labor in human history']](./2026-09/2026-09-20.md)
 
-微软高管在版权诉讼未公开的法庭证词中，将AI爬取训练数据称为"人类历史上最大的劳动盗窃"，引爆AI版权争议。、美军因AI生成的"幻觉情报报告"险些对一艘中国船只采取拦截行动，凸显AI幻觉在军事场景中的致命风险。、新开源语言Bend利用形式化证明在编译期拦截AI生成代码中的错误，并原生支持GPU并行执行，专为AI编程场景设计。、阿里巴巴开源一款可检测癌症及近150种疾病的医疗AI大模型，推动医疗影像…
+微软高管在纽约时报诉讼解封的法庭文件中称 AI 抓取内容是"人类历史上最大的劳动盗窃"，OpenAI 负责人则称 ChatGPT 对出版商构成"生存威胁"。、美国军方因使用 AI 生成的"幻觉"情报报告险些对一艘中国船只采取军事行动，凸显生成式 AI 在高风险决策中的隐患。、阿里巴巴开源医疗 AI 模型，可检测癌症及近 150 种疾病，加速医疗影像 AI 的应用与落地。、《科学》杂志报道 AI 聊…
 
-<p align="right"><a href="./2026-09/2026-09-19.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-20.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-19](./2026-09/2026-09-19.md) | Microsoft exec called AI scraping 'the largest theft of labor in human history' |
 | [09-18](./2026-09/2026-09-18.md) | [Mistral X Mozilla: Private, Multilingual AI Browsing] |
 | [09-17](./2026-09/2026-09-17.md) | [Nvidia announces native GPU programming in Rust] |
 | [09-16](./2026-09/2026-09-16.md) | [Introducing System One Models and Jev] |
