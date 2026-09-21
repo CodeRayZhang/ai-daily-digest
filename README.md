@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-131_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-132_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.20 — [Microsoft exec called AI scraping 'the largest theft of labor in human history']](./2026-09/2026-09-20.md)
+### [2026.09.21 — ChatGPT now knows what you do on other websites via ad collector（ChatGPT 通过广告收集器获知你在其他网站的一举一动）](./2026-09/2026-09-21.md)
 
-微软高管在纽约时报诉讼解封的法庭文件中称 AI 抓取内容是"人类历史上最大的劳动盗窃"，OpenAI 负责人则称 ChatGPT 对出版商构成"生存威胁"。、美国军方因使用 AI 生成的"幻觉"情报报告险些对一艘中国船只采取军事行动，凸显生成式 AI 在高风险决策中的隐患。、阿里巴巴开源医疗 AI 模型，可检测癌症及近 150 种疾病，加速医疗影像 AI 的应用与落地。、《科学》杂志报道 AI 聊…
+一项隐私调查发现：OpenAI 的广告平台会在用户浏览器设置一个与 ChatGPT 账号绑定的 `__obi` cookie，广告主网站加载 OpenAI 代码后会把用户的浏览、搜索和购买行为回传给 OpenAI，从而将站外行为与账号身份关联起来。、阿里巴巴通义千问团队发布新一代图像生成模型 Qwen Image 2.1，在 Hacker News 上获得高热度，是当前图像生成领域的最新开源发布之…
 
-<p align="right"><a href="./2026-09/2026-09-20.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-21.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-20](./2026-09/2026-09-20.md) | [Microsoft exec called AI scraping 'the largest theft of labor in human history'] |
 | [09-19](./2026-09/2026-09-19.md) | Microsoft exec called AI scraping 'the largest theft of labor in human history' |
 | [09-18](./2026-09/2026-09-18.md) | [Mistral X Mozilla: Private, Multilingual AI Browsing] |
 | [09-17](./2026-09/2026-09-17.md) | [Nvidia announces native GPU programming in Rust] |
