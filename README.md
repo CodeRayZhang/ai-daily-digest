@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-132_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-133_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.21 — ChatGPT now knows what you do on other websites via ad collector（ChatGPT 通过广告收集器获知你在其他网站的一举一动）](./2026-09/2026-09-21.md)
+### [2026.09.22 — Grok 4.7](./2026-09/2026-09-22.md)
 
-一项隐私调查发现：OpenAI 的广告平台会在用户浏览器设置一个与 ChatGPT 账号绑定的 `__obi` cookie，广告主网站加载 OpenAI 代码后会把用户的浏览、搜索和购买行为回传给 OpenAI，从而将站外行为与账号身份关联起来。、阿里巴巴通义千问团队发布新一代图像生成模型 Qwen Image 2.1，在 Hacker News 上获得高热度，是当前图像生成领域的最新开源发布之…
+xAI 发布最新一代旗舰模型 Grok 4.7，社区围绕其智能水平、性能表现与定价策略展开热烈讨论。、小米发布 MiMo-V2.6 系列多模态旗舰模型，主打全模态（all modalities）前沿智能，并以"公开构建（built in public）"方式开源。、数学家陶哲轩发文宣布成立"数学与人工智能顾问组"，背景是 OpenAI 的 AI 据称已解决 100 多个开放数学问题。、Linear…
 
-<p align="right"><a href="./2026-09/2026-09-21.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-22.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-21](./2026-09/2026-09-21.md) | ChatGPT now knows what you do on other websites via ad collector（ChatGPT 通过广告收集器获知你在其他网站的一举一动） |
 | [09-20](./2026-09/2026-09-20.md) | [Microsoft exec called AI scraping 'the largest theft of labor in human history'] |
 | [09-19](./2026-09/2026-09-19.md) | Microsoft exec called AI scraping 'the largest theft of labor in human history' |
 | [09-18](./2026-09/2026-09-18.md) | [Mistral X Mozilla: Private, Multilingual AI Browsing] |
