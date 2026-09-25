@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-134_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-135_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.23 — GPT-6 Sol and Luna（OpenAI）](./2026-09/2026-09-23.md)
+### [2026.09.25 — [Claude discovers a novel enzyme system]（Claude 发现全新酶系统）](./2026-09/2026-09-25.md)
 
-OpenAI发布新一代旗舰模型 GPT-6 的 Sol 与 Luna 双版本，主打更低的调用成本与更少的错误率。、Anthropic发布 Claude Opus 5.5，价格进一步下调、性能达到 Fable 级，并针对网络安全场景加强了防护。、五角大楼表示对AI的过度依赖是导弹误击伊朗学校的原因之一，引发对军事AI问责机制的广泛讨论。、开发者 Jared Palmer 开源了类 Jev 的轻量级决…
+Anthropic 新成立的生命科学实验室公布早期成果：Claude 智能体发现了一个功能仍属未知的全新酶系统，其序列含类 CRISPR 重复片段，被视为 AI 驱动科学发现的重大突破。、OpenAI 推出 GPT-6 系列两款新模型 Sol 与 Luna，宣称成本更低、错误更少，与旗舰模型 Astra 同源，是本周最受关注的模型发布。、Inception Labs 的扩散式大语言模型 Mercu…
 
-<p align="right"><a href="./2026-09/2026-09-23.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-25.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-23](./2026-09/2026-09-23.md) | GPT-6 Sol and Luna（OpenAI） |
 | [09-22](./2026-09/2026-09-22.md) | Grok 4.7 |
 | [09-21](./2026-09/2026-09-21.md) | ChatGPT now knows what you do on other websites via ad collector（ChatGPT 通过广告收集器获知你在其他网站的一举一动） |
 | [09-20](./2026-09/2026-09-20.md) | [Microsoft exec called AI scraping 'the largest theft of labor in human history'] |
