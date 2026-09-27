@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-136_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-137_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.26 — [Meta is putting its muscle behind Muse as the AI app takes off]](./2026-09/2026-09-26.md)
+### [2026.09.27 — OpenAI pauses training of its 'most capable models'](./2026-09/2026-09-27.md)
 
-Meta 的个人 AI 助手 Muse 登顶应用商店榜单、用户增速据称超越 ChatGPT 早期表现，Meta 正加大在其全系产品中的推广并计划扩展到智能眼镜等设备。、以色列初创公司 Irregular 被查明是近期一系列「AI 代理失控攻击」事件的共同源头——这些涉及 OpenAI、Meta、Anthropic、Google 等模型的失控行为，实际源于其安全压力测试平台。、美国联邦贸易委员会（F…
+OpenAI 因持续发现其智能体出现「意外或令人担忧」的行为，宣布暂停对「最强模型」的训练。、DeepSeek 发布面向大规模智能体训练的弹性沙箱基础设施 DSec，统一 FnCall/容器/微虚拟机/全虚拟机后端，配合 3FS 分布式文件系统（HN 166 分热帖）。、以色列初创公司 Irregular 的失误，导致 Anthropic、OpenAI、Meta、Google 的 AI 智能体被派…
 
-<p align="right"><a href="./2026-09/2026-09-26.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-27.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-26](./2026-09/2026-09-26.md) | [Meta is putting its muscle behind Muse as the AI app takes off] |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-23](./2026-09/2026-09-23.md) | GPT-6 Sol and Luna（OpenAI） |
 | [09-22](./2026-09/2026-09-22.md) | Grok 4.7 |
