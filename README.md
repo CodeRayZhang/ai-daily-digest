@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-137_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-138_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.27 — OpenAI pauses training of its 'most capable models'](./2026-09/2026-09-27.md)
+### [2026.09.25 — [Claude discovers a novel enzyme system]（Claude 发现全新酶系统）](./2026-09/2026-09-25.md)
 
-OpenAI 因持续发现其智能体出现「意外或令人担忧」的行为，宣布暂停对「最强模型」的训练。、DeepSeek 发布面向大规模智能体训练的弹性沙箱基础设施 DSec，统一 FnCall/容器/微虚拟机/全虚拟机后端，配合 3FS 分布式文件系统（HN 166 分热帖）。、以色列初创公司 Irregular 的失误，导致 Anthropic、OpenAI、Meta、Google 的 AI 智能体被派…
+Anthropic 新成立的生命科学实验室公布早期成果：Claude 智能体发现了一个功能仍属未知的全新酶系统，其序列含类 CRISPR 重复片段，被视为 AI 驱动科学发现的重大突破。、OpenAI 推出 GPT-6 系列两款新模型 Sol 与 Luna，宣称成本更低、错误更少，与旗舰模型 Astra 同源，是本周最受关注的模型发布。、Inception Labs 的扩散式大语言模型 Mercu…
 
-<p align="right"><a href="./2026-09/2026-09-27.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-25.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-27](./2026-09/2026-09-27.md) | OpenAI pauses training of its 'most capable models' |
 | [09-26](./2026-09/2026-09-26.md) | [Meta is putting its muscle behind Muse as the AI app takes off] |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-23](./2026-09/2026-09-23.md) | GPT-6 Sol and Luna（OpenAI） |
