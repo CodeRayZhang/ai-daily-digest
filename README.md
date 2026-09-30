@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-139_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-140_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-27](./2026-09/2026-09-27.md) | OpenAI pauses training of its 'most capable models' |
 | [09-26](./2026-09/2026-09-26.md) | [Meta is putting its muscle behind Muse as the AI app takes off] |
