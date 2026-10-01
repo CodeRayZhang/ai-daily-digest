@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-140_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-141_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.25 — [Claude discovers a novel enzyme system]（Claude 发现全新酶系统）](./2026-09/2026-09-25.md)
+### [2026.10.01 — Google 发布 Gemini 4 Argon，号称迄今最强模型](./2026-10/2026-10-01.md)
 
-Anthropic 新成立的生命科学实验室公布早期成果：Claude 智能体发现了一个功能仍属未知的全新酶系统，其序列含类 CRISPR 重复片段，被视为 AI 驱动科学发现的重大突破。、OpenAI 推出 GPT-6 系列两款新模型 Sol 与 Luna，宣称成本更低、错误更少，与旗舰模型 Astra 同源，是本周最受关注的模型发布。、Inception Labs 的扩散式大语言模型 Mercu…
+Google 正式发布新一代旗舰模型 Gemini 4 Argon，因能力过强，部分功能仅向"受信任的网络安全防御者"开放；该消息同时登顶 Hacker News（1000+ 分）并被多家科技媒体头条报道。、一个名为 Livenerf 的开源基准项目持续追踪 Opus 5.5 发布后的能力变化，在 HN 引发 800+ 分热议，讨论模型是否被悄悄削弱（nerf）。、编程智能体 Pi 团队发文解释为…
 
-<p align="right"><a href="./2026-09/2026-09-25.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-10/2026-10-01.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-27](./2026-09/2026-09-27.md) | OpenAI pauses training of its 'most capable models' |
