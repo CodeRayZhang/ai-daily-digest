@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-142_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-143_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.10.02 — Google 发布 Gemini 4 Argon，号称迄今最强大的模型](./2026-10/2026-10-02.md)
+### [2026.10.03 — FLUX 3 Image：Black Forest Labs 发布"逐像素可控"图像生成模型](./2026-10/2026-10-03.md)
 
-Google 正式发布新一代旗舰模型 Gemini 4 Argon，官方称其为"迄今最强大"的模型，性能全面对标前沿。、Cloudflare 推出 Clef，一套开源权重的"决策模型"及配套强化学习微调平台，主打让 AI 自主做决策，登上 HN 首页（429 分）。、一篇提出"上下文语言模型"新范式的论文引发热议，探讨模型如何利用长上下文进行学习与推理，登上 Hacker News 首页（108 …
+Black Forest Labs 发布新一代图像生成/编辑模型 FLUX 3 Image，主打对每个像素的极致控制：可在画布上精确放置元素、逐框编辑，未触及的部分保持原样。、Napster 联合创始人 Sean Parker 获得唱片公司的资金与背书，重返 AI 赛道，将 Stability AI 的重心转向音乐生成方向。、苹果宣布加强 macOS 的 Full Disk Access（完全磁盘…
 
-<p align="right"><a href="./2026-10/2026-10-02.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-10/2026-10-03.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [10-02](./2026-10/2026-10-02.md) | Google 发布 Gemini 4 Argon，号称迄今最强大的模型 |
 | [10-01](./2026-10/2026-10-01.md) | Google 发布 Gemini 4 Argon，号称迄今最强模型 |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
