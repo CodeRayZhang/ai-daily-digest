@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-144_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-145_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.10.04 — Kolibri Has Landed: A Sovereign Open-Weight Model](./2026-10/2026-10-04.md)
+### [2026.10.05 — [Qwen 3.8 Flash Next (125B) 在 RTX 4090 消费级硬件上跑到 100 T/s]](./2026-10/2026-10-05.md)
 
-德国 Aleph Alpha 发布主权开源权重模型 Kolibri：英德双语 MoE 架构（总 78B / 激活 3B 参数），最高 1M token 上下文，Apache 2.0 许可，主打主权与关键任务场景（Hacker News 当日榜首，515 分）。、Anthropic 官方发布指南，讲解如何在 Claude 与 Claude Code 中充分发挥最新 Opus 5.5 模型的能力（提示…
+开源项目 Strata 展示了在单张消费级显卡（RTX 4090）上以每秒约 100 tokens 运行 1250 亿参数大模型的推理优化方案。、OpenAI 一名安全团队成员公开辞职，批评公司在 AI 安全文化上的倒退，再度引发业界对前沿模型安全治理的关注。、白宫将 AI 重新包装为"超级智能"并宣布组建新力量，AI 政策与政府治理成为当前焦点。、研究显示 OpenAI 的 GPT 模型在《星际…
 
-<p align="right"><a href="./2026-10/2026-10-04.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-10/2026-10-05.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [10-04](./2026-10/2026-10-04.md) | Kolibri Has Landed: A Sovereign Open-Weight Model |
 | [10-03](./2026-10/2026-10-03.md) | FLUX 3 Image：Black Forest Labs 发布"逐像素可控"图像生成模型 |
 | [10-02](./2026-10/2026-10-02.md) | Google 发布 Gemini 4 Argon，号称迄今最强大的模型 |
 | [10-01](./2026-10/2026-10-01.md) | Google 发布 Gemini 4 Argon，号称迄今最强模型 |
