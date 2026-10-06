@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-145_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-146_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.10.05 — [Qwen 3.8 Flash Next (125B) 在 RTX 4090 消费级硬件上跑到 100 T/s]](./2026-10/2026-10-05.md)
+### [2026.10.06 — [Reflection 发布 501B 开源权重模型 Beam]](./2026-10/2026-10-06.md)
 
-开源项目 Strata 展示了在单张消费级显卡（RTX 4090）上以每秒约 100 tokens 运行 1250 亿参数大模型的推理优化方案。、OpenAI 一名安全团队成员公开辞职，批评公司在 AI 安全文化上的倒退，再度引发业界对前沿模型安全治理的关注。、白宫将 AI 重新包装为"超级智能"并宣布组建新力量，AI 政策与政府治理成为当前焦点。、研究显示 OpenAI 的 GPT 模型在《星际…
+Reflection 正式推出 501B 参数的开源权重模型 Beam，主打"让智能对所有人开放可及"，是近期最受关注的大模型发布之一。、Q*Labs 提出一种不依赖反向传播的 Transformer 预训练方法 Dust，试图绕开梯度反向传播这一深度学习的基础训练机制。、Opus 5.5 智能体在材料发现任务中成功筛选出两种室温磁性半导体候选材料，展示了 AI 智能体在科研加速中的实际价值。、佛…
 
-<p align="right"><a href="./2026-10/2026-10-05.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-10/2026-10-06.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [10-05](./2026-10/2026-10-05.md) | [Qwen 3.8 Flash Next (125B) 在 RTX 4090 消费级硬件上跑到 100 T/s] |
 | [10-04](./2026-10/2026-10-04.md) | Kolibri Has Landed: A Sovereign Open-Weight Model |
 | [10-03](./2026-10/2026-10-03.md) | FLUX 3 Image：Black Forest Labs 发布"逐像素可控"图像生成模型 |
 | [10-02](./2026-10/2026-10-02.md) | Google 发布 Gemini 4 Argon，号称迄今最强大的模型 |
