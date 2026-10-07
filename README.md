@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-146_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-147_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.10.06 — [Reflection 发布 501B 开源权重模型 Beam]](./2026-10/2026-10-06.md)
+### [2026.10.07 — [Mistral Large 4 — Mistral 发布新一代旗舰开源大模型]](./2026-10/2026-10-07.md)
 
-Reflection 正式推出 501B 参数的开源权重模型 Beam，主打"让智能对所有人开放可及"，是近期最受关注的大模型发布之一。、Q*Labs 提出一种不依赖反向传播的 Transformer 预训练方法 Dust，试图绕开梯度反向传播这一深度学习的基础训练机制。、Opus 5.5 智能体在材料发现任务中成功筛选出两种室温磁性半导体候选材料，展示了 AI 智能体在科研加速中的实际价值。、佛…
+Mistral 推出约 1 万亿参数的新旗舰模型 Mistral Large 4，宣称在多项基准上超越闭源与开源竞品，HN 热度极高（1500+ 分）。、OpenAI 开源其在数学领域的最新研究与预印本，分享模型在数学推理与自动定理证明上的成果。、一个开源 AI 加速器（TPU）项目，据称硬件设计由 AI 协助完成，在 Hacker News 引发大量讨论。、美国犹他州有望成为首个允许 AI 独立…
 
-<p align="right"><a href="./2026-10/2026-10-06.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-10/2026-10-07.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [10-06](./2026-10/2026-10-06.md) | [Reflection 发布 501B 开源权重模型 Beam] |
 | [10-05](./2026-10/2026-10-05.md) | [Qwen 3.8 Flash Next (125B) 在 RTX 4090 消费级硬件上跑到 100 T/s] |
 | [10-04](./2026-10/2026-10-04.md) | Kolibri Has Landed: A Sovereign Open-Weight Model |
 | [10-03](./2026-10/2026-10-03.md) | FLUX 3 Image：Black Forest Labs 发布"逐像素可控"图像生成模型 |
