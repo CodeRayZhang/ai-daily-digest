@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-148_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-149_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.10.08 — [OpenAI: Sharing AI progress in mathematics（分享数学领域的 AI 进展）]](./2026-10/2026-10-08.md)
+### [2026.10.09 — [OpenAI 年化营收比此前预期少约 200 亿美元]](./2026-10/2026-10-09.md)
 
-OpenAI 公布其在数学推理方面的最新成果，展示模型在竞赛级数学问题上取得的突破性进展。、OpenAI 发布新一代旗舰模型 GPT-6，主打"为每个人打造的智能界面"，将更强的多模态与交互能力带给普通用户。、Anthropic 发布新一代轻量高速模型 Claude Haiku 5.5，在保持低成本的同时显著提升推理能力。、Nous Research 完成 9000 万美元 B 轮融资、估值达 1…
+CNBC 报道称 OpenAI 的最新营收指引远低于早前向投资者传达的水平，引发对其增长与商业化进度的关注（HN 351 分）。、谷歌将能自主执行工作任务的智能体能力引入 Gemini，先从企业客户开始推广，加速 AI 智能体商业化落地。、新政策同时封禁模型滥用与选举干预，在 HN 上引发关于 AI 伦理边界与"AI 权利"的热议（147 条评论）。、一款支持百万 token 上下文的混合专家（M…
 
-<p align="right"><a href="./2026-10/2026-10-08.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-10/2026-10-09.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [10-08](./2026-10/2026-10-08.md) | [OpenAI: Sharing AI progress in mathematics（分享数学领域的 AI 进展）] |
 | [10-07](./2026-10/2026-10-07.md) | [Mistral Large 4 — Mistral 发布新一代旗舰开源大模型] |
 | [10-06](./2026-10/2026-10-06.md) | [Reflection 发布 501B 开源权重模型 Beam] |
 | [10-05](./2026-10/2026-10-05.md) | [Qwen 3.8 Flash Next (125B) 在 RTX 4090 消费级硬件上跑到 100 T/s] |
