@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-150_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-151_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.10.10 — Show HN: 让AI智能体在屏幕上"画箭头、方框和文字"的开源工具](./2026-10/2026-10-10.md)
+### [2026.10.11 — OpenAI 公开分享数学领域的AI进展（Sharing AI progress in mathematics）](./2026-10/2026-10-11.md)
 
-一个登上 Hacker News 榜首的开源工具（379分），让 AI 代理能直接在屏幕上标注箭头、方框和文字，方便观察与调试代理的操作过程。、阶跃星辰（StepFun）的 Step 5 预览版在 OpenRouter 亮相，是一款支持 100 万 token 上下文长度的混合专家（MoE）大模型。、打造"非文本 AI 模型 Jev"的 Typesafe AI 完成 8.7 亿美元融资、估值 75…
+OpenAI 发布其数学领域的最新AI成果，在 GitHub（openai/math）公开大量数学问题解答与论文预印本，The Verge 称数学家需"数年时间"才能消化这些成果——当日 HN 最热（1348 分、1500+ 评论）。、作者重度使用 DeepSeek 4.1 Flash 一个月后认为其"能力堪比前沿模型、成本却低几个数量级"，探讨这款高性价比模型为何未在业界引发震动（HN 1111…
 
-<p align="right"><a href="./2026-10/2026-10-10.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-10/2026-10-11.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [10-10](./2026-10/2026-10-10.md) | Show HN: 让AI智能体在屏幕上"画箭头、方框和文字"的开源工具 |
 | [10-09](./2026-10/2026-10-09.md) | [OpenAI 年化营收比此前预期少约 200 亿美元] |
 | [10-08](./2026-10/2026-10-08.md) | [OpenAI: Sharing AI progress in mathematics（分享数学领域的 AI 进展）] |
 | [10-07](./2026-10/2026-10-07.md) | [Mistral Large 4 — Mistral 发布新一代旗舰开源大模型] |
