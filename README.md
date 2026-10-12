@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-151_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-152_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.10.11 — OpenAI 公开分享数学领域的AI进展（Sharing AI progress in mathematics）](./2026-10/2026-10-11.md)
+### [2026.09.25 — [Claude discovers a novel enzyme system]（Claude 发现全新酶系统）](./2026-09/2026-09-25.md)
 
-OpenAI 发布其数学领域的最新AI成果，在 GitHub（openai/math）公开大量数学问题解答与论文预印本，The Verge 称数学家需"数年时间"才能消化这些成果——当日 HN 最热（1348 分、1500+ 评论）。、作者重度使用 DeepSeek 4.1 Flash 一个月后认为其"能力堪比前沿模型、成本却低几个数量级"，探讨这款高性价比模型为何未在业界引发震动（HN 1111…
+Anthropic 新成立的生命科学实验室公布早期成果：Claude 智能体发现了一个功能仍属未知的全新酶系统，其序列含类 CRISPR 重复片段，被视为 AI 驱动科学发现的重大突破。、OpenAI 推出 GPT-6 系列两款新模型 Sol 与 Luna，宣称成本更低、错误更少，与旗舰模型 Astra 同源，是本周最受关注的模型发布。、Inception Labs 的扩散式大语言模型 Mercu…
 
-<p align="right"><a href="./2026-10/2026-10-11.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-25.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [10-11](./2026-10/2026-10-11.md) | OpenAI 公开分享数学领域的AI进展（Sharing AI progress in mathematics） |
 | [10-10](./2026-10/2026-10-10.md) | Show HN: 让AI智能体在屏幕上"画箭头、方框和文字"的开源工具 |
 | [10-09](./2026-10/2026-10-09.md) | [OpenAI 年化营收比此前预期少约 200 亿美元] |
 | [10-08](./2026-10/2026-10-08.md) | [OpenAI: Sharing AI progress in mathematics（分享数学领域的 AI 进展）] |
