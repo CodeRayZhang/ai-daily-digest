@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-152_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-153_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [10-11](./2026-10/2026-10-11.md) | OpenAI 公开分享数学领域的AI进展（Sharing AI progress in mathematics） |
 | [10-10](./2026-10/2026-10-10.md) | Show HN: 让AI智能体在屏幕上"画箭头、方框和文字"的开源工具 |
 | [10-09](./2026-10/2026-10-09.md) | [OpenAI 年化营收比此前预期少约 200 亿美元] |
