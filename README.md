@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-155_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-156_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.09.25 — [Claude discovers a novel enzyme system]（Claude 发现全新酶系统）](./2026-09/2026-09-25.md)
+### [2026.10.16 — Meta 联手 Apple 发布开源权重模型 Muse Spark Open，可在 Mac 本地运行](./2026-10/2026-10-16.md)
 
-Anthropic 新成立的生命科学实验室公布早期成果：Claude 智能体发现了一个功能仍属未知的全新酶系统，其序列含类 CRISPR 重复片段，被视为 AI 驱动科学发现的重大突破。、OpenAI 推出 GPT-6 系列两款新模型 Sol 与 Luna，宣称成本更低、错误更少，与旗舰模型 Astra 同源，是本周最受关注的模型发布。、Inception Labs 的扩散式大语言模型 Mercu…
+Meta 与 Apple 合作推出的最新开源权重模型，能直接在 Apple 芯片的 Mac 上本地运行（基于 MLX）。、Google 宣布向开发者、企业、科学家与普通消费者全面开放其最新前沿模型 Gemini 4 Argon。、Anthropic 允许 METR 研究人员以员工级权限查看其模型内部，加强外部安全评估与治理透明度。、ChatGPT 新增读取用户 Chrome 浏览器标签页的能力，进…
 
-<p align="right"><a href="./2026-09/2026-09-25.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-10/2026-10-16.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
