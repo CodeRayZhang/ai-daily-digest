@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-156_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-157_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.10.16 — Meta 联手 Apple 发布开源权重模型 Muse Spark Open，可在 Mac 本地运行](./2026-10/2026-10-16.md)
+### [2026.10.17 — Meta 携手 Apple 让 Muse 开放权重模型在 Mac 上本地运行](./2026-10/2026-10-17.md)
 
-Meta 与 Apple 合作推出的最新开源权重模型，能直接在 Apple 芯片的 Mac 上本地运行（基于 MLX）。、Google 宣布向开发者、企业、科学家与普通消费者全面开放其最新前沿模型 Gemini 4 Argon。、Anthropic 允许 METR 研究人员以员工级权限查看其模型内部，加强外部安全评估与治理透明度。、ChatGPT 新增读取用户 Chrome 浏览器标签页的能力，进…
+Meta 发布开放权重模型 Muse，并与 Apple 合作通过 MLX 框架优化，使其能在 Mac（含 Nvidia RTX Spark 机型）上高效本地运行。、针对多国接连曝出的 AI 智能体"失控"攻击事件，安全专家指出根源并非 AI 觉醒，而是前沿实验室跳过了基础的隔离、凭据与监控等安全基线。、哈佛等团队提出进化式框架，让 LLM 生成量子电路设计、再由独立评估器打分，在 8 项任务中有 …
 
-<p align="right"><a href="./2026-10/2026-10-16.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-10/2026-10-17.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [10-16](./2026-10/2026-10-16.md) | Meta 联手 Apple 发布开源权重模型 Muse Spark Open，可在 Mac 本地运行 |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
