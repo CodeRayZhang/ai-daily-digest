@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:00_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/articles-157_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/articles-158_篇-brightgreen" alt="count">
 </p>
 
 # 🔥 AI 日报
@@ -12,11 +12,11 @@
 
 ## 📰 最近一期
 
-### [2026.10.17 — Meta 携手 Apple 让 Muse 开放权重模型在 Mac 上本地运行](./2026-10/2026-10-17.md)
+### [2026.10.18 — [DeepSeek-V4.1-Flash-1017 发布]](./2026-10/2026-10-18.md)
 
-Meta 发布开放权重模型 Muse，并与 Apple 合作通过 MLX 框架优化，使其能在 Mac（含 Nvidia RTX Spark 机型）上高效本地运行。、针对多国接连曝出的 AI 智能体"失控"攻击事件，安全专家指出根源并非 AI 觉醒，而是前沿实验室跳过了基础的隔离、凭据与监控等安全基线。、哈佛等团队提出进化式框架，让 LLM 生成量子电路设计、再由独立评估器打分，在 8 项任务中有 …
+DeepSeek 发布新一代高效开源模型 Flash-1017，主打低延迟与高性价比推理，权重已上架 Hugging Face（HN 当日最高分 AI 内容之一）。、Anthropic 研究称 Claude 逆向溯源了 NIST P-256 椭圆曲线参数"神秘种子"的来历，为密码学界多年的悬案提供了新线索。、Black Forest Labs 推出 FLUX 3 系列新图像生成模型 "Image …
 
-<p align="right"><a href="./2026-10/2026-10-17.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-10/2026-10-18.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -43,6 +43,7 @@ Hacker News · TechCrunch · The Verge · arXiv · Reddit · 各大科技媒体
 
 | 日期 | 封面主题 |
 |------|----------|
+| [10-17](./2026-10/2026-10-17.md) | Meta 携手 Apple 让 Muse 开放权重模型在 Mac 上本地运行 |
 | [10-16](./2026-10/2026-10-16.md) | Meta 联手 Apple 发布开源权重模型 Muse Spark Open，可在 Mac 本地运行 |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
 | [09-25](./2026-09/2026-09-25.md) | [Claude discovers a novel enzyme system]（Claude 发现全新酶系统） |
